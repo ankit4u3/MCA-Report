@@ -1,0 +1,53 @@
+\contentsline {chapter}{\numberline {1} Introduction}{1}
+\contentsline {section}{\numberline {1.1}Background}{1}
+\contentsline {section}{\numberline {1.2}Implementation and Methodology}{2}
+\contentsline {section}{\numberline {1.3}Designing Treasure Hunting Game}{3}
+\contentsline {section}{\numberline {1.4}Proposed System Advantages}{4}
+\contentsline {section}{\numberline {1.5}Locations & Rules }{4}
+\contentsline {section}{\numberline {1.6}Trackables}{5}
+\contentsline {section}{\numberline {1.7}Conclusion}{6}
+\contentsline {chapter}{\numberline {2}Requirement Engineering}{7}
+\contentsline {section}{\numberline {2.1}Hardware Requirement }{7}
+\contentsline {section}{\numberline {2.2}Software Requirement }{7}
+\contentsline {section}{\numberline {2.3}Functional Requirement}{8}
+\contentsline {section}{\numberline {2.4}Non Functional Requirements}{8}
+\contentsline {section}{\numberline {2.5}Requirement}{8}
+\contentsline {subsection}{\numberline {2.5.1}Android Development Kit}{9}
+\contentsline {section}{\numberline {2.6}Software Tools}{9}
+\contentsline {subsection}{\numberline {2.6.1}Eclipse}{9}
+\contentsline {subsection}{\numberline {2.6.2}System Architecture}{10}
+\contentsline {chapter}{\numberline {3}Database Design}{11}
+\contentsline {section}{\numberline {3.1}Introduction}{11}
+\contentsline {section}{\numberline {3.2}System and Database Design}{11}
+\contentsline {chapter}{\numberline {4}System Design}{14}
+\contentsline {section}{\numberline {4.1}Data Flow Diagram}{14}
+\contentsline {section}{\numberline {4.2}Sequence Diagram}{16}
+\contentsline {section}{\numberline {4.3}Activity Diagram}{17}
+\contentsline {section}{\numberline {4.4}Use Case Diagram}{17}
+\contentsline {chapter}{\numberline {5}Input/Output Design}{19}
+\contentsline {section}{\numberline {5.1}Input Design}{19}
+\contentsline {section}{\numberline {5.2}Output Design}{20}
+\contentsline {chapter}{\numberline {6}Modules}{21}
+\contentsline {section}{\numberline {6.1}Module Description}{21}
+\contentsline {subsection}{\numberline {6.1.1}Splash Startup}{21}
+\contentsline {subsection}{\numberline {6.1.2}Async Task }{21}
+\contentsline {subsection}{\numberline {6.1.3}JSON parser}{23}
+\contentsline {subsection}{\numberline {6.1.4}SQL Lite Helper}{23}
+\contentsline {subsection}{\numberline {6.1.5}GPS Receiver}{25}
+\contentsline {subsection}{\numberline {6.1.6}Google Maps API}{26}
+\contentsline {chapter}{\numberline {7}Testing}{27}
+\contentsline {section}{\numberline {7.1}General}{27}
+\contentsline {section}{\numberline {7.2}Developing Methodologies}{27}
+\contentsline {section}{\numberline {7.3}Robotium benefits over other }{27}
+\contentsline {section}{\numberline {7.4}Results}{28}
+\contentsline {subsection}{\numberline {7.4.1}Analysis}{28}
+\contentsline {chapter}{\numberline {8}Implementation}{32}
+\contentsline {section}{\numberline {8.1}Code & Screen Shots}{32}
+\contentsline {subsection}{\numberline {8.1.1}Splash Screen}{32}
+\contentsline {subsection}{\numberline {8.1.2}Location Marker}{32}
+\contentsline {subsection}{\numberline {8.1.3}Task List}{33}
+\contentsline {subsection}{\numberline {8.1.4}User Registration}{34}
+\contentsline {chapter}{\numberline {9}Snapshot}{35}
+\contentsline {chapter}{\numberline {10}Future Aspects}{39}
+\contentsline {chapter}{\numberline {11}Conclusion}{40}
+\contentsline {chapter}{References}{41}

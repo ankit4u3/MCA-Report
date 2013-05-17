@@ -1,0 +1,1074 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.19)  16 MAY 2013 13:33
+entering extended mode
+**G:/MCA*Report/fancyR.tex
+("G:/MCA Report/fancyR.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\Dexter\AppData\Roaming\MiKTeX\2.9\tex\latex\sectsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+No file fancyR.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+("G:\MCA Report\introduction.tex"
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \usepackage
+               {titlesec}
+? 
+! Undefined control sequence.
+l.6 \titleformat
+                {\chapter}[display]
+? 
+! Undefined control sequence.
+l.6 \titleformat{\chapter
+                         }[display]
+? 
+! Undefined control sequence.
+l.7 ...Large\bfseries}{\centering\chaptertitlename
+                                                  \ \thechapter}{12pt}{\Large}
+? 
+! Undefined control sequence.
+l.7 ...s}{\centering\chaptertitlename\ \thechapter
+                                                  }{12pt}{\Large}
+? 
+! Undefined control sequence.
+l.8 \titlespacing
+                 *{\chapter}{0pt}{0pt}{10pt}
+? 
+! Undefined control sequence.
+l.8 \titlespacing*{\chapter
+                           }{0pt}{0pt}{10pt}
+? 
+! Undefined control sequence.
+l.11 \chapter
+             { Introduction}
+? 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+
+! Misplaced alignment tab character &.
+l.18   \item Visit the "Hide &
+                               Seek a Cache" page.
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.30 \section{Locations & Rules }
+                                 
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.30 \section{Locations & Rules }
+                                 
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.38 \section{Trackables}
+                         
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.38 \section{Trackables}
+                         
+? 
+[1
+
+{C:/Users/Dexter/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no Æ in font cmr12!
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.53 \left
+          
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 53.
+! Undefined control sequence.
+l.54 \includegraphics
+                     [scale=0.5]{cache}\\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.55 \caption{Treasure Hunt }
+                             
+? 
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.55 \caption{Treasure Hunt }
+                             
+? 
+) ("G:\MCA Report\literature-survey.tex"
+! Undefined control sequence.
+l.27 \titlespacing
+                  *{\chapter}{0pt}{0pt}{12pt}
+? 
+! Undefined control sequence.
+l.27 \titlespacing*{\chapter
+                            }{0pt}{0pt}{12pt}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.29 \section{Literature Review}
+                                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.29 \section{Literature Review}
+                                
+? 
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+! Misplaced alignment tab character &.
+l.43 ...6 (Telford, 2006) and MLA 2007 (Mongelia &
+                                                   Brown, 2007). Nowhere in the
+
+? 
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+! Misplaced alignment tab character &.
+l.72 Hunt itself (Mongelia &
+                             Brown, 2007)
+? 
+[2]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [3] [4]
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.108 \section{The Treasure Hunt}
+                                 
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.108 \section{The Treasure Hunt}
+                                 
+? 
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[5]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no Ø in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [6]) ("G:\MCA Report\project-design.tex"
+! Undefined control sequence.
+l.1 \titleformat
+                {\chapter}[display]
+? 
+! Undefined control sequence.
+l.1 \titleformat{\chapter
+                         }[display]
+? 
+! Undefined control sequence.
+l.2 ...Large\bfseries}{\centering\chaptertitlename
+                                                  \ \thechapter}{12pt}{\Large}
+? 
+! Undefined control sequence.
+l.2 ...s}{\centering\chaptertitlename\ \thechapter
+                                                  }{12pt}{\Large}
+? 
+! Undefined control sequence.
+l.3 \titlespacing
+                 *{\chapter}{0pt}{0pt}{10pt}
+? 
+! Undefined control sequence.
+l.3 \titlespacing*{\chapter
+                           }{0pt}{0pt}{10pt}
+? 
+! Undefined control sequence.
+l.5 \chapter
+            {Project Design}
+? 
+[7]
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.7 \section{Requirement}
+                         
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.7 \section{Requirement}
+                         
+? 
+
+Overfull \hbox (18.43465pt too wide) in paragraph at lines 12--13
+[]\OT1/cmr/m/n/12 Android ap-pli-ca-tions are pack-aged in .apk for-mat and sto
+red un-der /data/app
+ []
+
+[8] [9]
+! Undefined control sequence.
+l.49 \includegraphics
+                     [scale=0.5]{dfd0}\\
+? 
+) ("G:\MCA Report\implementation.tex"
+! Undefined control sequence.
+l.1 \chapter
+            {Modules}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.4 \section{Module Description}
+                                
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.4 \section{Module Description}
+                                
+? 
+[10]
+! Undefined control sequence.
+l.27 \lstinputlisting
+                     {async.py}
+? 
+[11]
+! You can't use `macro parameter character #' in horizontal mode.
+l.33 ...-family of languages, including C, C++, C#
+                                                  , Java, JavaScript, Perl, ...
+
+? 
+! Undefined control sequence.
+l.45 \lstinputlisting
+                     {json.txt}
+? 
+! Undefined control sequence.
+l.50 \lstinputlisting
+                     {sqllitehelper.py}
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.54 ...tance from the system by calling LOCATION_
+                                                  SERVICE.
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.55 
+     
+? 
+[12]
+! Undefined control sequence.
+l.57 \lstinputlisting
+                     {gps.py}
+? 
+) ("G:\MCA Report\sourcecode.tex"
+! Undefined control sequence.
+l.2 \chapter
+            {Implementation}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.5 ...on{\ignorespacesSource Code & Screen Shots}
+                                                  
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.5 ...on{\ignorespacesSource Code & Screen Shots}
+                                                  
+? 
+! Undefined control sequence.
+<argument> ...\endcsname }\fi \ignorespacesSource 
+                                                  Code & Screen Shots}{\thep...
+l.5 ...on{\ignorespacesSource Code & Screen Shots}
+                                                  
+? 
+
+! LaTeX Error: Environment wrapfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \begin{wrapfigure}
+                      {r}{0.3845\linewidth}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.9 \begin{wrapfigure}{r}{0.3845\linewidth}
+                                           
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.9 \begin{wrapfigure}{r}{0.3845\linewidth}
+                                           
+? 
+! Undefined control sequence.
+l.11 \includegraphics
+                     [scale=0.7]{snaps/splash}
+? 
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \caption
+             {Application Loading}
+? 
+
+! LaTeX Error: \begin{document} ended by \end{wrapfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{wrapfigure}
+                     
+? 
+Runaway argument?
+{Splash Screen is a view that appears for sometimes (3 or 4 seconds).\ETC.
+! Paragraph ended before \text@command was complete.
+<to be read again> 
+                   \par 
+l.17 }
+      
+? 
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[13]
+! Too many }'s.
+<recently read> \egroup 
+                        
+l.17 }
+      
+? 
+
+! LaTeX Error: Environment wrapfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \begin{wrapfigure}
+                       {r}{0.39\linewidth}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.28 \begin{wrapfigure}{r}{0.39\linewidth}
+                                          
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.28 \begin{wrapfigure}{r}{0.39\linewidth}
+                                          
+? 
+! Undefined control sequence.
+l.30 \includegraphics
+                     [scale=0.6]{snaps/location}
+? 
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \caption
+             {Location Marker Activity}
+? 
+
+! LaTeX Error: \begin{document} ended by \end{wrapfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \end{wrapfigure}
+                     
+? 
+Runaway argument?
+{ Location Marker is responsible for plotting the real time location \ETC.
+! Paragraph ended before \text@command was complete.
+<to be read again> 
+                   \par 
+l.40 }
+      
+? 
+! Too many }'s.
+<recently read> \egroup 
+                        
+l.40 }
+      
+? 
+[14]
+
+! LaTeX Error: Environment equation* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \begin{equation*}
+                      
+? 
+
+! LaTeX Error: Environment CD undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49   \begin{CD}
+                 
+? 
+
+! LaTeX Error: \begin{document} ended by \end{CD}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53   \end{CD}
+               
+? 
+
+! LaTeX Error: Environment CD undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55   \begin{CD}
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.56     x @>>\alpha
+                    > y \\
+? 
+
+! LaTeX Error: \begin{document} ended by \end{CD}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59   \end{CD}
+               
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.59   \end{CD}
+               
+? 
+
+! LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \end{equation*}
+                    
+? 
+
+! LaTeX Error: Environment align* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \begin{align*}
+                   
+? 
+! Undefined control sequence.
+l.70 \xymatrix
+              @R=10pt{
+? 
+! Undefined control sequence.
+l.71     cRing \ar
+                  [r] & Sch \\
+? 
+! Misplaced alignment tab character &.
+l.71     cRing \ar[r] &
+                        Sch \\
+? 
+! Undefined control sequence.
+l.72     A \ar
+              @{}[u]|{\rotatebox{90}{$\in$}} \ar@{|->}[r]
+? 
+! Undefined control sequence.
+l.72     A \ar@{}[u]|{\rotatebox
+                                {90}{$\in$}} \ar@{|->}[r]
+? 
+! Undefined control sequence.
+l.72     A \ar@{}[u]|{\rotatebox{90}{$\in$}} \ar
+                                                @{|->}[r]
+? 
+! Misplaced alignment tab character &.
+l.73             &
+                   Spec(A) \ar@{}[u]|{\rotatebox{90}{$\in$}}
+? 
+! Undefined control sequence.
+l.73             & Spec(A) \ar
+                              @{}[u]|{\rotatebox{90}{$\in$}}
+? 
+! Undefined control sequence.
+l.73             & Spec(A) \ar@{}[u]|{\rotatebox
+                                                {90}{$\in$}}
+? 
+
+! LaTeX Error: \begin{document} ended by \end{align*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 \end{align*}
+                 
+? 
+! Undefined control sequence.
+l.79 \chapter
+             {Snapshot}
+? 
+! Undefined control sequence.
+l.84 \includegraphics
+                     [width=2.5in]{snaps/splash} &
+? 
+! Undefined control sequence.
+l.85 \includegraphics
+                     [width=2.5in]{snaps/user} &
+? 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.85 \includegraphics[width=2.5in]{snaps/user} &
+                                                
+? 
+! Misplaced alignment tab character &.
+<argument> ...sname : \ignorespaces Spash Screen &
+                                                   Team Select
+l.89 \caption{Spash Screen & Team Select}
+                                         
+? 
+! Undefined control sequence.
+l.95 \includegraphics
+                     [width=2.5in]{snaps/3} &
+? 
+! Undefined control sequence.
+l.96 \includegraphics
+                     [width=2.5in]{snaps/4}
+? 
+! Misplaced alignment tab character &.
+<argument> ...ndcsname : \ignorespaces Main Menu &
+                                                   Task List
+l.99 \caption{Main Menu & Task List}
+                                    
+? 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.105 \includegraphics
+                      [width=2.5in]{snaps/5} &
+? 
+! Undefined control sequence.
+l.106 \includegraphics
+                      [width=2.5in]{snaps/6}
+? 
+! Misplaced alignment tab character &.
+<argument> ...sname : \ignorespaces OverLays Map &
+                                                   Custom Location
+l.109 \caption{OverLays Map & Custom Location}
+                                              
+? 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.115 \includegraphics
+                      [width=2.5in]{snaps/7} &
+? 
+! Undefined control sequence.
+l.116 \includegraphics
+                      [width=2.5in]{snaps/8}
+? 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.125 \includegraphics
+                      [width=2.5in]{images/maps} &
+? 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.135 \chapter
+              {Future Aspects}
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+[15]
+! Undefined control sequence.
+l.139 \chapter
+              {Conclusion}
+? 
+
+! LaTeX Error: \begin{document} ended by \end{adjustwidth}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 \end{adjustwidth}
+                       
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.150 \end{adjustwidth}
+                       
+? 
+) ("G:\MCA Report\schedule.tex"
+! Undefined control sequence.
+l.2 \chapter
+            {Scheduling}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.4 \section{Executors}
+                       
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.4 \section{Executors}
+                       
+? 
+[16]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 ...forever", you can use a value of Long.MAX_
+                                                  VALUE.
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 
+     
+? 
+[17]
+Overfull \hbox (18.4444pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 ListMap, Con-cur-rentSkipList-Set, Copy-On-WriteAr-rayList, and
+ Copy-On-WriteAr-
+ []
+
+
+Overfull \hbox (9.27873pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 classes. For ex-am-ple java.util.Hashtable and Col-lec-tions.sy
+nchronizedMap(new
+ []
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.22 \section{Memory Consistency Properties}
+                                            
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.22 \section{Memory Consistency Properties}
+                                            
+? 
+
+Overfull \hbox (8.22087pt too wide) in paragraph at lines 24--26
+\OT1/cmr/m/n/12 before ac-tions sub-se-quent to a suc-cess-ful "ac-quir-ing" me
+thod such as Lock.lock,
+ []
+
+
+Overfull \hbox (4.85703pt too wide) in paragraph at lines 24--26
+\OT1/cmr/m/n/12 Semaphore.acquire, Con-di-tion.await, and Count-Down-Latch.awai
+t on the same
+ []
+
+[18]
+
+! LaTeX Error: \begin{document} ended by \end{adjustwidth}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \end{adjustwidth}
+                      
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.28 \end{adjustwidth}
+                      
+? 
+) ("G:\MCA Report\conclusion.tex"
+! Undefined control sequence.
+l.1 \chapter
+            {Conclusion }
+? 
+[19]) ("G:\MCA Report\futurescope.tex"
+! Undefined control sequence.
+l.1 \chapter
+            {Future Scope}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.4 \section{Future Scope}
+                          
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.4 \section{Future Scope}
+                          
+? 
+) ("G:\MCA Report\ref.tex"
+! Missing number, treated as zero.
+<to be read again> 
+                   \setbox 
+l.1 \begin{thebibliography}{99}
+                               
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \setbox 
+l.1 \begin{thebibliography}{99}
+                               
+? 
+! Undefined control sequence.
+<argument> ...ct \contentsline {chapter}{\bibname 
+                                                  }{\thepage }}
+l.2 \addcontentsline{toc}{chapter}{\bibname}
+                                            
+? 
+! Undefined control sequence.
+l.3 \lhead
+          {}\markboth{\bibname}{}
+? 
+! Undefined control sequence.
+<argument> \bibname 
+                    
+l.3 \lhead{}\markboth{\bibname}{}
+                                 
+? 
+Missing character: There is no √ in font cmr12!
+Missing character: There is no © in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no © in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no © in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no © in font cmr12!
+[20]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no © in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no © in font cmr12!
+) [21] ("G:\MCA Report\fancyR.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 396 strings out of 493921
+ 5206 string characters out of 3144873
+ 61700 words of memory out of 3000000
+ 3732 multiletter control sequences out of 15000+200000
+ 8241 words of font info for 29 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 23i,8n,19p,2423b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on fancyR.pdf (21 pages, 135958 bytes).
+PDF statistics:
+ 94 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

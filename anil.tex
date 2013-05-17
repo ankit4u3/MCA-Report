@@ -1,0 +1,167 @@
+%%\documentclass[12pt]{report}
+\documentclass[12pt,a4paper,times]{report}
+
+\newcommand{\sizetwelvefixed}{\fontsize{12}{12}\selectfont}
+\usepackage[top=20mm, bottom=20mm, left=34mm,right=12mm]{geometry}
+%%\usepackage[margin=1in]{geometry}
+\usepackage{mathptmx}
+\usepackage{pdfpages}
+
+
+
+
+%%\usepackage[scaled=.90]{helvet}
+\usepackage{times}
+\usepackage{lipsum}% just to generate filler text
+\usepackage{setspace}
+\doublespacing
+\usepackage{graphicx} % support the \includegraphics command and options
+\usepackage{titlesec}
+\usepackage{wrapfig, blindtext}
+\usepackage{amsmath,amscd}
+\usepackage{graphicx}
+\usepackage{xypic}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%
+
+
+
+%For inserting Python Code
+\usepackage{listings}
+\usepackage{color}
+\definecolor{dkgreen}{rgb}{0,0,0}
+\definecolor{gray}{rgb}{0,0,0}
+
+
+\definecolor{mauve}{rgb}{0,0,0}
+\lstset{ %
+language=Python, % the language of the code
+basicstyle=\small, % the size of the fonts that are used for the code
+%numbers=left, % where to put the line-numbers
+%numberstyle=\tiny\color{gray}, % the style that is used for the line-numbers
+stepnumber=1, % each line is numbered
+numbersep=12pt, % how far the line-numbers are from the code
+backgroundcolor=\color{white}, % choose the background color. You must add \usepackage{color}
+showspaces=false, % show spaces adding particular underscores
+showstringspaces=false, % underline spaces within strings
+showtabs=false, % show tabs within strings adding particular underscores
+%frame=single, % adds a frame around the code
+rulecolor=\color{black}, % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. commens (green here))
+tabsize=2, % sets default tabsize to 2 spaces
+captionpos=b, % sets the caption-position to bottom
+breaklines=true, % sets automatic line breaking
+breakatwhitespace=false, % sets if automatic breaks should only happen at whitespace
+%title=\lstname, % show the filename of files included with \lstinputlisting;
+% also try caption instead of title
+keywordstyle=\color{dkgreen}, % keyword style
+commentstyle=\color{dkgreen}, % comment style
+stringstyle=\color{dkgreen}, % string literal style
+escapeinside={\%*}{*)}, % if you want to add a comment within your code
+morekeywords={*,...} % if you want to add more keywords to the set
+}
+
+%%%%For inserting Python Code Ove
+
+
+
+%%%%%%%%%%%%%%%%%
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{20\p@}%
+  {\parindent \z@ \centering\normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+         \fontsize{12}\bfseries \@chapapp\space \thechapter
+        \par\nobreak
+        \vskip 10\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \fontsize{12}\bfseries #1\par\nobreak
+
+    \vskip 40\p@
+  }}
+
+
+
+
+
+
+
+\begin{document}
+\makeatletter
+\renewcommand\@dotsep{10000}
+\makeatother
+\setlength{\headsep}{3pt}
+\newpage
+\renewcommand{\baselinestretch}{1.3}\normalsize
+%Renames "Bibliography" to "References" on ref page
+
+
+
+\renewcommand\bibname{References} 
+%%\newgeometry{textwidth=16cm,textheight=28cm,voffset=-2cm,bottom=0cm}
+\input{abstract.tex} % adds the Research Methodology page
+\pagenumbering{roman} %numbering before main content starts
+\tableofcontents % adds Index Page
+
+\newpage
+\listoffigures % adds List of Figures
+%\pagestyle{plain}
+
+\listoftables
+\newpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+%\restoregeometry
+
+
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \centering\normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+         \Large\bfseries \@chapapp\space \thechapter
+        \par\nobreak
+        \vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+     \Large \bfseries #1\par\nobreak
+
+    \vskip 40\p@
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \centering
+    \normalfont
+    \interlinepenalty\@M
+    \Large\bfseries  #1\par\nobreak
+    \vskip 40\p@
+  }}
+\makeatother
+\titlespacing*{\chapter}{0pt}{0pt}{12pt}
+\begin{document}
+
+
+\chapter{Introduction}
+\chapter{System Analysis}
+\chapter{Modules}
+\chapter{System Requirement}
+\chapter{Database Design}
+\chapter{System Design}
+\chapter{ Input Output Design}
+\chapter{ *Software Environment }
+\chapter{ Implementation}
+\chapter{ Snapshots}
+\chapter{ System Testing}
+\chapter{Future Aspects}
+\chapter{Conclusion}
+
+\end{document}

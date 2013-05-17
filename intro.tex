@@ -1,0 +1,238 @@
+	
+	
+	
+	
+	\makeatletter
+	\def\@makechapterhead#1{%
+	  \vspace*{50\p@}%
+	  {\parindent \z@ \centering\normalfont
+	    \ifnum \c@secnumdepth >\m@ne
+	      \if@mainmatter
+	         \Large\bfseries \@chapapp\space \thechapter
+ 	        \par\nobreak
+	        \vskip 20\p@
+	      \fi
+	    \fi
+	    \interlinepenalty\@M
+	     \Large \bfseries #1\par\nobreak
+	
+	    \vskip 40\p@
+	  }}
+	\def\@makeschapterhead#1{%
+	  \vspace*{50\p@}%
+	  {\parindent \z@ \centering 
+	    \normalfont
+	    \interlinepenalty\@M
+	    \Large\bfseries  #1\par\nobreak
+	    \vskip 40\p@
+	  }}
+	\makeatother
+	\titlespacing*{\chapter}{0pt}{0pt}{12pt}
+	
+	
+	\chapter{ Introduction}
+	Treasure Hunt is a real-world, outdoor treasure hunting game using GPS-enabled devices. Participants navigate to a specific set of GPS coordinates and then attempt to find the geocache (container) hidden at that location.At its simplest level, geocaching requires these 8 steps:
+	\begin{itemize}
+	
+	
+	
+	  \item Register with the game server.
+	  \item Visit the "Hide & Seek a Cache" page.
+	  \item Enter your name  and click "search."
+	  \item Choose any Game Locations from the list and click on its name.
+	  \item Click on Start Hunt from your Android  GPS Device.
+	  \item Use yourAndroid  device to assist you in finding the hidden Treasure Location.
+	   \item Share your Treasure Hunt stories and photos online.
+	 
+	\end{itemize}
+	
+	\section{Background}
+	In the last few years, the smart phones (Android, Black 
+	berry and iPhone) have taken over the market of Nokia 
+	based Symbian Phones in India. And these smart phones 
+	come equipped with A-GPS functionality which provides 
+	the spatial coordinates of the user location. 
+	Android's Network Location Provider determines user 
+	location using cell tower and Wi-Fi signals, providing 
+	location information in a way that works indoor and 
+	outdoor, responds faster, and uses less battery power. 
+	Assisted GPS [6], also known as A-GPS or AGPS, 
+	improves the performance of standard GPS in devices 
+	connected to the wireless network. A-GPS enhances the 
+	location granularity of cell phones (and other connected 
+	devices) in two ways: 
+	
+	\begin{itemize}
+	\item By helping in finding a faster "time to first fix" 
+	(TTFF). A-GPS acquires and stores information about 
+	the location of satellites via the cellular network hence 
+	the information does not need to be downloaded via 
+	satellite
+	\item By helping position mobile device when GPS signals 
+	are not strong or not present. GPS satellite signals may 
+	be impeded by tall towers, and they do not penetrate 
+	building interiors well. A-GPS uses proximity to 
+	cellular towers to calculate location when GPS signals 
+	are unavailable. 
+	\end{itemize}
+	
+	It addresses signal and wireless network problems by using 
+	assistance from other services. Such a technology in our 
+	smart phones can assist in various ways like tracking 
+	current location, receiving turn-by-turn direction 
+	instructions, route tracking, etc. Mostly suited for mobile devices, A-GPS takes assistance 
+	from GPRS and at times, the service provider network 
+	information, to pin-point the current location accurately. 
+	Moreover the amount of CPU and programming required 
+	for a GPS phone is reduced by diverting most of the work 
+	to the assistance server instead. 
+	
+	A typical A-GPS enabled cell phone uses GPRS or other 
+	such Internet based data connection to build a contact with 
+	the assistance server for A-GPS. As this technique does 
+	not take into account the cell phone service provider 
+	network completely, we only pay for the GPRS usage 
+	charges and nothing else. The only down-side to this 
+	technology is that an A-GPS server cannot utilize any of 
+	the three standby satellites available for GPS connections. 
+	AGPS minimizes the amount of memory and hardware 
+	that must be integrated into mobile devices in order to 
+	provide GPS-quality device locating ability as required by 
+	mobile devices. This keeps the mobile device simple and 
+	allows longer battery time.
+	
+	GPS is real-time solution provider whereas AGPS is not. 
+	The network usage is required every time we move out of 
+	the service area. It is useful only for locating a particular 
+	place in small area. There is no privacy in GPS and A-GPS 
+	since the Assistance server knows the location of the 
+	device. 
+	
+	There needs to be communication over the wireless for 
+	processing of GPS information so this could be expensive
+	
+	\section{Implementation and Methodology}
+	
+	Location-based service is another key functionality that 
+	gets used in smart phone applications. It is often combined 
+	with maps to give a good experience to the user about their 
+	location. 
+	Android support LBS Application Programming Interfaces 
+	(APIs) [7]. Location service allows finding out the device 
+	current location. The application can request for periodic 
+	update of the device location information. The application 
+	can also register a intent receiver for proximity alerts like 
+	when the device is entering and existing from an area of 
+	given longitude, latitude and radius.
+	
+	
+
+	
+	
+	
+	\section{Designing Treasure Hunting Game}
+	
+	The executability of the activity should be concerned in designing Treasure Hunting Game. Therefore, the campus environment and local environment off the campus both can be adopted. The former is more suitable for beginners; the obvious buildings and landmarks in the campus, such as gate, playground, flower beds, gym, educational building, parking lot, etc can be the places for hiding the treasure. However, the safety should be concerned as well so that construction sites or some places with potential dangers should be avoided. In designing treasures, the treasure can be an object or the place itself. Once the participant is approaching the target, the system will automatically show the quiz. The quiz should be related to the treasure. For example, when the participant is approaching the flower bed, the system can appear “What kind of flower is it?” Thus, the participant needs to answer the question in this game. 
+	
+	Since the treasure hunting game integrates spatial map data, the system can display the places for the treasures according to the order you set. Also, the system can indicate the distance and the direction to the next scenic spot to clear up the participants’ confusion and to effectively mange the activity area and time (the figure below). As the treasure hunting game is finished, the system can automatically calculate the participants’ scores, which can be referred to how the students understand the quizzes. Also, you can apply other evaluation factors, such as answering time, the speed of finding the coordinates to be the evaluation criteria. Furthermore, the distance between each treasure should be designed carefully; neither too far nor too close is appropriate. If the distance is too close, it would be hard to tell how the students understand the quizzes; if the distance is too far, it would be difficult for the participants to find the direction to the next treasure.
+	
+	If the activity is held off the campus, the activity area should be concerned in designing the game. In general, public parks and scenic areas can be the activity area. If all of the conditions are met, the activity can be more flexible. For example, the participants can spend a half day finding the places of the treasures by bike. As a result, the activity area can be extended. Similarly, the rule of the game is to answer all of the questions in the system.
+	
+	No matter the activity area is in campus or off campus, the design of the questions should focus on the information which can be received by sensory organs. The questions for off-campus activities can be related to the local features, such as visiting historical sites of Qing Dynasty, seashore recreational route, historical architectures in old streets. On the other hand, the questions for the activities in campus can refer to the existing information in the campus, like the placard of flora and fauna, narration of special scenic spots, etc. The activity time can be decided by the number of treasures and the area of the activity, but it had better be less than four hours. If the time is too long, it might reduce students’ motivation of treasure hunting.
+	
+	
+	
+	
+	
+	
+	\section{Proposed  System Advantages}
+	In order to achieve this we are using the power of Open Source Android Operating System and Parse Cloud and APIOMAT API which has several benefits over other systems.Since we are using the cloud we have no bottle neck problem ,most of the code logic resides on the Parse
+	and security model is not at all a problem anymore.Parse handles the security on the type of technology being used in the application like PHP,ANDROID,iOS all have different sets of Keys to access and manipulate the data.
+	
+	
+	
+	\begin{itemize}
+	
+	
+	
+	 \item No initial knowledge of Cloud Security Required
+	\item Referencing the API will make the functionality easy
+	\item  No Bottle Neck Problem 
+	\item Executor Class for Sync data to web server in case of network not available
+	\item Off Line Mode
+	\item  disaster recovery
+	\item Lower Maintenance  
+	
+	
+	
+	\end{itemize}
+	
+	
+	
+	
+	\section{Locations & Rules }
+	Geocaches can be found all over the world. It is common for geocachers to hide caches in locations that are important to them, reflecting a special interest or skill of the cache owner. These locations can be quite diverse. They may be at your local park, at the end of a long hike, underwater or on the side of a city street.In its simplest form, a cache always contains a logbook or logsheet for you to log your find. Larger caches may contain a logbook and any number of items. These items turn the adventure into a true treasure hunt. You never know what the cache owner or visitors to the cache may have left for you to enjoy. Remember, if you take something, leave something of equal or greater value in return. It is recommended that items in a cache be individually packaged in a clear, zipped plastic bag to protect them from the elements.
+	
+	People of all ages hide and seek geocaches, so think carefully before placing an item into a cache. Explosives, ammunition, knives, drugs and alcohol should not be placed in a cache. Respect local laws at all times.Please do not put food or heavily scented items in a cache. Animals have better noses than humans, and in some cases caches have been chewed through and destroyed because of food items in a cache.
+	
+	
+	
+	
+	\section{Trackables}
+	
+	A Trackable is a sort of physical geocaching "game piece." You will often find them in geocaches or see them at geocaching gatherings. Each Trackable is etched with a unique code that can be used to log its movements on Geocaching.com as it travels in the real world. Some of these items have traveled hundreds of thousands of miles thanks to geocachers who move them from cache to cache!
+	
+	There are three main types of Trackables: Travel Bug® Track-ables, Geocoins and other Track-ables.A Travel Bug is a trackable tag attached to an item that geocachers call a "hitchhiker." Each Travel Bug has a goal set by its owner. Goals are typically travel-related, such as to visit every country in Europe or travel from coast to coast. Travel Bug Trackables move from cache to cache with the help of geocachers like you. See the "What do I do when I find a Trackable?" section of the guide for information on how you can help Trackables move.
+	
+	Geocoins are customizable coins created by individuals or groups of geocachers as a kind of signature item or calling card. They function exactly like Travel Bug Trackables and should be moved to another cache, unless otherwise specified by their owners.Other Trackable items come in various forms including patches, key rings and more. A common feature of Trackable items is that they bear a unique ID code and text noting that they are trackable at Treasure Hunt or Ankit APPS Google Play Store.
+	
+	
+	\section{Conclusion}
+	There are various constraints to implement Location Based 
+	Services. The different kinds of constraints include 
+	
+	\begin{itemize}
+	
+	
+	
+	  \item Technology Constraints 
+	For LBS to be operational on a large scale, mapping under 
+	the geographical information system (GIS) needs to be 
+	more comprehensive than it is today. This raises 
+	significant challenges in for improving the breadth and the 
+	depth of the existing coverage of GIS. The most important 
+	factor in enabling the growth of LBS is wide availability of 
+	cheap GPS enabled handsets. GPS enabled handsets are 
+	being manufactured now days. The issue of cost remains to 
+	be tackled, since these phones are still all high-end units
+	
+	\item Infrastructure Constraints 
+	One of the main problems is the lack of spread of the 
+	wireless network into the countryside. In developing 
+	country like India, the wireless technology is in very 
+	nascent stage. In metro cities and areas, the problem of 
+	network congestion is also an important issue. The 
+	percentage of service operators not meeting the congestion 
+	rate benchmarks has risen substantially.
+	
+	\item Market failure 
+	One of the main constraints to the provision of value added 
+	services, in general, and LBS in particular, is the market 
+	structure of the mobile industry and the failure to unleash 
+	the forces of competition. A key essential need for LBS 
+	provision needs cross-network connections to be seamless, 
+	and the current practices go against a cooperative attitude 
+	for LBS provision. 
+	
+	
+	
+	\end{itemize}
+	
+	
+	
+	
+	
+	
+	
+	
+	

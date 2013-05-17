@@ -1,0 +1,38 @@
+\contentsline {chapter}{\numberline {1} Introduction}{1}
+\contentsline {section}{\numberline {1.1}Locations & Rules }{1}
+\contentsline {section}{\numberline {1.2}Trackables}{2}
+\contentsline {section}{\numberline {1.3}Literature Review}{3}
+\contentsline {subsection}{\numberline {1.3.1}Planning and Design}{4}
+\contentsline {section}{\numberline {1.4}The Treasure Hunt}{6}
+\contentsline {subsection}{\numberline {1.4.1}Discussion}{8}
+\contentsline {subsection}{\numberline {1.4.2}Conclusion}{9}
+\contentsline {chapter}{\numberline {2}Project Design}{10}
+\contentsline {section}{\numberline {2.1}Requirement}{10}
+\contentsline {subsection}{\numberline {2.1.1}Android SDK}{10}
+\contentsline {subsection}{\numberline {2.1.2}Software Tools}{11}
+\contentsline {subsubsection}{Eclipse}{11}
+\contentsline {subsection}{\numberline {2.1.3}System Architecture}{11}
+\contentsline {subsubsection}{SubSub}{12}
+\contentsline {subsection}{\numberline {2.1.4}UML }{12}
+\contentsline {subsubsection}{Data Flow Diagram}{13}
+\contentsline {subsubsection}{0 Level}{13}
+\contentsline {subsection}{\numberline {2.1.5}Test Designs }{13}
+\contentsline {chapter}{\numberline {3}Implementation}{14}
+\contentsline {section}{\numberline {3.1}Modules }{14}
+\contentsline {subsection}{\numberline {3.1.1}Splash Startup}{14}
+\contentsline {subsection}{\numberline {3.1.2}Async Task }{15}
+\contentsline {subsection}{\numberline {3.1.3}JSON parser}{16}
+\contentsline {subsection}{\numberline {3.1.4}SQL Lite Helper}{16}
+\contentsline {subsection}{\numberline {3.1.5}GPS Receiver}{18}
+\contentsline {subsection}{\numberline {3.1.6}Points Updater}{18}
+\contentsline {subsection}{\numberline {3.1.7}Crash Detector}{18}
+\contentsline {subsection}{\numberline {3.1.8}Google Maps API}{19}
+\contentsline {chapter}{\numberline {4}Testing}{20}
+\contentsline {section}{\numberline {4.1}Robotium benefits:}{20}
+\contentsline {section}{\numberline {4.2}Results}{21}
+\contentsline {subsection}{\numberline {4.2.1}Analysis}{21}
+\contentsline {section}{\numberline {4.3}Comparison with Previous works}{22}
+\contentsline {subsection}{\numberline {4.3.1}Submodule1}{22}
+\contentsline {section}{\numberline {4.4}Previews}{23}
+\contentsline {subsection}{\numberline {4.4.1}Submodule1}{23}
+\contentsline {chapter}{References}{24}

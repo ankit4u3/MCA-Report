@@ -1,0 +1,57 @@
+\contentsline {chapter}{\numberline {1} Introduction}{2}
+\contentsline {section}{\numberline {1.1}Locations & Rules }{2}
+\contentsline {section}{\numberline {1.2}Trackables}{3}
+\contentsline {section}{\numberline {1.3}Literature Review}{3}
+\contentsline {subsection}{\numberline {1.3.1}Planning and Design}{4}
+\contentsline {section}{\numberline {1.4}The Treasure Hunt}{5}
+\contentsline {subsection}{\numberline {1.4.1}Discussion}{7}
+\contentsline {subsection}{\numberline {1.4.2}Conclusion}{8}
+\contentsline {chapter}{\numberline {2}Project Design}{9}
+\contentsline {section}{\numberline {2.1}Requirement}{9}
+\contentsline {subsection}{\numberline {2.1.1}Android Open Accessory Development Kit}{9}
+\contentsline {subsection}{\numberline {2.1.2}Software Tools}{10}
+\contentsline {subsubsection}{Eclipse}{10}
+\contentsline {subsection}{\numberline {2.1.3}System Architecture}{10}
+\contentsline {subsubsection}{SubSub}{11}
+\contentsline {subsection}{\numberline {2.1.4}UML }{11}
+\contentsline {subsubsection}{Data Flow Diagram}{11}
+\contentsline {subsubsection}{0 Level}{11}
+\contentsline {chapter}{\numberline {3}Implementation}{12}
+\contentsline {section}{\numberline {3.1}Modules }{12}
+\contentsline {subsection}{\numberline {3.1.1}Splash Startup}{12}
+\contentsline {subsection}{\numberline {3.1.2}Async Task }{12}
+\contentsline {subsection}{\numberline {3.1.3}JSON parser}{13}
+\contentsline {subsection}{\numberline {3.1.4}SQL Lite Helper}{14}
+\contentsline {subsection}{\numberline {3.1.5}GPS Receiver}{15}
+\contentsline {subsection}{\numberline {3.1.6}Points Updater}{16}
+\contentsline {subsection}{\numberline {3.1.7}Crash Detector}{16}
+\contentsline {subsection}{\numberline {3.1.8}Google Maps API}{16}
+\contentsline {chapter}{\numberline {4}Testing}{17}
+\contentsline {section}{\numberline {4.1}Robotium benefits:}{17}
+\contentsline {section}{\numberline {4.2}Results}{17}
+\contentsline {subsection}{\numberline {4.2.1}Analysis}{17}
+\contentsline {section}{\numberline {4.3}Comparison with Previous works}{19}
+\contentsline {subsection}{\numberline {4.3.1}Submodule1}{19}
+\contentsline {section}{\numberline {4.4}Previews}{19}
+\contentsline {subsection}{\numberline {4.4.1}Submodule1}{19}
+\contentsline {chapter}{\numberline {5}Implementation}{20}
+\contentsline {section}{\numberline {5.1}Source Code & Screen Shots}{20}
+\contentsline {subsection}{\numberline {5.1.1}Splash Screen}{20}
+\contentsline {subsection}{\numberline {5.1.2}Location Marker}{21}
+\contentsline {subsection}{\numberline {5.1.3}Task List}{21}
+\contentsline {subsection}{\numberline {5.1.4}User Registration}{21}
+\contentsline {subsection}{\numberline {5.1.5}Question DataSource}{21}
+\contentsline {subsection}{\numberline {5.1.6}GameSelect}{21}
+\contentsline {chapter}{\numberline {6}Scheduling}{24}
+\contentsline {section}{\numberline {6.1}Executors}{24}
+\contentsline {subsection}{\numberline {6.1.1}Queues}{24}
+\contentsline {subsection}{\numberline {6.1.2}Timing}{25}
+\contentsline {subsection}{\numberline {6.1.3}Synchronizers}{25}
+\contentsline {section}{\numberline {6.2}Memory Consistency Properties}{25}
+\contentsline {chapter}{\numberline {7}Results & Conclusion }{27}
+\contentsline {section}{\numberline {7.1}User Interface}{27}
+\contentsline {chapter}{\numberline {8}Future Scope}{28}
+\contentsline {section}{\numberline {8.1}Future Scope}{28}
+\contentsline {chapter}{References}{29}
+\contentsline {section}{\numberline {.1}\\Title of Appendix A}{30}
+\contentsline {section}{\numberline {.2}\\Title of Appendix B}{31}
