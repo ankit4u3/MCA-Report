@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.19)  17 MAY 2013 15:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.19)  27 MAY 2013 17:45
 entering extended mode
 **G:/MCA*Report/ANKIT*APRIL*REPORT*2013.tex
 ("G:/MCA Report/ANKIT APRIL REPORT 2013.tex"
@@ -15,8 +15,8 @@ an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -435,80 +435,7 @@ File: lstlang1.sty 2004/09/05 1.3 listings language file
 LaTeX Warning: Unused global option(s):
     [times].
 
-("G:\MCA Report\ANKIT APRIL REPORT 2013.aux"
-
-LaTeX Warning: Label `tab:title' multiply defined.
-
-
-LaTeX Warning: Label `the-label-for-cross-referencing' multiply defined.
-
-
-LaTeX Warning: Label `tab:title' multiply defined.
-
-
-LaTeX Warning: Label `the-label-for-cross-referencing' multiply defined.
-
-
-LaTeX Warning: Label `overflow' multiply defined.
-
-
-LaTeX Warning: Label `overflow' multiply defined.
-
-
-LaTeX Warning: Label `overflow' multiply defined.
-
-
-LaTeX Warning: Label `overflow' multiply defined.
-
-
-LaTeX Warning: Label `overflow' multiply defined.
-
-
-LaTeX Warning: Label `the-label-for-cross-referencing' multiply defined.
-
-
-LaTeX Warning: Label `the-label-for-cross-referencing' multiply defined.
-
-
-LaTeX Warning: Label `fig:myfig' multiply defined.
-
-
-LaTeX Warning: Label `The Joy of Geocaching' multiply defined.
-
-
-LaTeX Warning: Label `The Essential Guide to Geocaching' multiply defined.
-
-
-LaTeX Warning: Label `The Complete Idiot's Guide ' multiply defined.
-
-
-LaTeX Warning: Label `The Geocaching Handbook' multiply defined.
-
-
-LaTeX Warning: Label `The Joy of Geocaching' multiply defined.
-
-
-LaTeX Warning: Label `The Essential Guide to Geocaching' multiply defined.
-
-
-LaTeX Warning: Label `The Complete Idiot's Guide ' multiply defined.
-
-
-LaTeX Warning: Label `The Geocaching Handbook' multiply defined.
-
-
-LaTeX Warning: Label `The Joy of Geocaching' multiply defined.
-
-
-LaTeX Warning: Label `The Essential Guide to Geocaching' multiply defined.
-
-
-LaTeX Warning: Label `The Complete Idiot's Guide ' multiply defined.
-
-
-LaTeX Warning: Label `The Geocaching Handbook' multiply defined.
-
-)
+No file ANKIT*APRIL*REPORT*2013.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
 LaTeX Font Info:    ... okay on input line 96.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
@@ -522,7 +449,7 @@ LaTeX Font Info:    ... okay on input line 96.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
 LaTeX Font Info:    ... okay on input line 96.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 96.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -544,12 +471,12 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * \topmargin=-23.91173pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=50.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -597,13 +524,13 @@ LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 96
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
-Package xypdf Info: Line width: 0.47987pt on input line 96.
+Package xypdf Info: Line width: 0.43788pt on input line 96.
 \c@lstlisting=\count152
 
 
@@ -622,107 +549,91 @@ l.97           \usepackage
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 111.
 
-("G:\MCA Report\ANKIT APRIL REPORT 2013.toc"
-! Misplaced alignment tab character &.
-<argument> \numberline {1.5}Locations &
-                                        Rules 
-l.6 ...on}{\numberline {1.5}Locations & Rules }{4}
-                                                  
+No file ANKIT*APRIL*REPORT*2013.toc.
+\tf@toc=\write4
+[1
+
+]
+No file ANKIT*APRIL*REPORT*2013.lof.
+\tf@lof=\write5
+[2
+
+]
+No file ANKIT*APRIL*REPORT*2013.lot.
+\tf@lot=\write6
+[3
+
+] ("G:\MCA Report\Requirement-Engineering.tex"
+! Argument of \@xdblarg has an extra }.
+<inserted text> 
+                \par 
+l.31 	\titlespacing*{\chapter}
+                              {0pt}{0pt}{12pt}
+? 
+Runaway argument?
+! Paragraph ended before \@xdblarg was complete.
+<to be read again> 
+                   \par 
+l.31 	\titlespacing*{\chapter}
+                              {0pt}{0pt}{12pt}
 ? 
 [1
 
 ]
-! Misplaced alignment tab character &.
-<argument> \numberline {8.1}Code &
-                                   Screen Shots
-l.45 ...{\numberline {8.1}Code & Screen Shots}{32}
-                                                  
-? 
-[2])
-\tf@toc=\write4
- [3] ("G:\MCA Report\ANKIT APRIL REPORT 2013.lof"
-! Misplaced alignment tab character &.
-<argument> ...e {9.1}{\ignorespaces Spash Screen &
-                                                   Team Select}
-l.20 ...orespaces Spash Screen & Team Select}}{51}
-                                                  
-? 
-! Misplaced alignment tab character &.
-<argument> ...line {9.2}{\ignorespaces Main Menu &
-                                                   Task List}
-l.21 ...{\ignorespaces Main Menu & Task List}}{52}
-                                                  
-? 
-! Misplaced alignment tab character &.
-<argument> ...e {9.3}{\ignorespaces OverLays Map &
-                                                   Custom Location}
-l.22 ...paces OverLays Map & Custom Location}}{53}
-                                                  
-? 
-)
-\tf@lof=\write5
- [4
-
-] ("G:\MCA Report\ANKIT APRIL REPORT 2013.lot")
-\tf@lot=\write6
- [5
-
-]
-("G:\MCA Report\Requirement-Engineering.tex"
 Chapter 1.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 41.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
 
 ! Misplaced alignment tab character &.
-l.39 	  \item Visit the "Hide &
+l.42 	  \item Visit the "Hide &
                                 Seek a Cache" page.
 ? 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.48 	\section{Background}
+l.51 	\section{Background}
                           
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.48 	\section{Background}
+l.51 	\section{Background}
                           
 ? 
-[1
+[2
 
 ]
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.113 	\section{Implementation and Methodology}
+l.116 	\section{Implementation and Methodology}
                                                
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.113 	\section{Implementation and Methodology}
+l.116 	\section{Implementation and Methodology}
                                                
 ? 
-[2]
+[3]
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.132 	\section{Designing Treasure Hunting Game}
+l.135 	\section{Designing Treasure Hunting Game}
                                                 
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.132 	\section{Designing Treasure Hunting Game}
+l.135 	\section{Designing Treasure Hunting Game}
                                                 
 ? 
 Missing character: There is no ‚ in font ptmr7t!
@@ -732,7 +643,7 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
 
-Overfull \hbox (1.04446pt too wide) in paragraph at lines 134--135
+Overfull \hbox (1.04446pt too wide) in paragraph at lines 137--138
 \OT1/ptm/m/n/12 There-fore, the cam-pus en-vi-ron-ment and lo-cal en-vi-ron-men
 t off the cam-pus both can be adopted.
  []
@@ -743,46 +654,45 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-[3]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \ttl@glcmds 
-l.147 	\section{Proposed  System Advantages}
-                                            
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \ttl@glcmds 
-l.147 	\section{Proposed  System Advantages}
-                                            
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \ttl@glcmds 
-l.172 	\section{Locations & Rules }
-                                   
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \ttl@glcmds 
-l.172 	\section{Locations & Rules }
-                                   
-? 
 [4]
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.180 	\section{Trackables}
+l.150 	\section{Proposed  System Advantages}
+                                            
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.150 	\section{Proposed  System Advantages}
+                                            
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.175 	\section{Locations & Rules }
+                                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.175 	\section{Locations & Rules }
+                                   
+? 
+[5]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.183 	\section{Trackables}
                            
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.180 	\section{Trackables}
+l.183 	\section{Trackables}
                            
 ? 
 Missing character: There is no ¬ in font ptmr7t!
@@ -790,133 +700,133 @@ Missing character: There is no Æ in font ptmr7t!
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.189 	\section{Conclusion}
+l.192 	\section{Conclusion}
                            
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.189 	\section{Conclusion}
+l.192 	\section{Conclusion}
                            
 ? 
-[5] [6]
+[6] [7]
 Chapter 2.
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.243 	\section{Hardware Requirement }
+l.244 	\section{Hardware Requirement }
                                       
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.243 	\section{Hardware Requirement }
+l.244 	\section{Hardware Requirement }
                                       
 ? 
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.263 	\section{Software Requirement }
+l.264 	\section{Software Requirement }
                                       
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.263 	\section{Software Requirement }
+l.264 	\section{Software Requirement }
                                       
 ? 
-[7
+[8
 
 ]
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.287 	\section{Functional Requirement}
+l.288 	\section{Functional Requirement}
                                        
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.287 	\section{Functional Requirement}
+l.288 	\section{Functional Requirement}
                                        
 ? 
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.291 	\section{Non Functional Requirements}
+l.292 	\section{Non Functional Requirements}
                                             
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.291 	\section{Non Functional Requirements}
+l.292 	\section{Non Functional Requirements}
                                             
 ? 
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.298 	\section{Requirement}
+l.299 	\section{Requirement}
                             
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.298 	\section{Requirement}
+l.299 	\section{Requirement}
                             
 ? 
-[8]
+[9]
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.314 	\section{Software Tools}
+l.315 	\section{Software Tools}
                                
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.314 	\section{Software Tools}
+l.315 	\section{Software Tools}
                                
 ? 
-[9] [10]
+[10] [11]
 Chapter 3.
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.332 \section{Introduction}
+l.335 \section{Introduction}
                             
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.332 \section{Introduction}
+l.335 \section{Introduction}
                             
 ? 
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.335 	\section{System and Database Design}
+l.338 	\section{System and Database Design}
                                            
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.335 	\section{System and Database Design}
+l.338 	\section{System and Database Design}
                                            
 ? 
-[11
+[14
 
-] [12] [13]
+] [15]
 Chapter 4.
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.419 \section{Data Flow Diagram}
+l.421 \section{Data Flow Diagram}
                                  
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.419 \section{Data Flow Diagram}
+l.421 \section{Data Flow Diagram}
                                  
 ? 
 Missing character: There is no ‚ in font ptmr7t!
@@ -926,285 +836,285 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
 
  []
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.423 \left
+l.425 \left
            
 ? 
 ! Missing delimiter (. inserted).
 <to be read again> 
                    \let 
-l.424 \includegraphics
+l.426 \includegraphics
                       [width=150mm]{images/dfd0}
 ? 
-<images/dfd0.png, id=65, 742.775pt x 481.8pt>
+<images/dfd0.png, id=58, 742.775pt x 481.8pt>
 File: images/dfd0.png Graphic file (type png)
  <use images/dfd0.png>
-Package pdftex.def Info: images/dfd0.png used on input line 424.
+Package pdftex.def Info: images/dfd0.png used on input line 426.
 (pdftex.def)             Requested size: 426.79134pt x 276.84169pt.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.425 \caption{Dafa Flow Diagram 0}
+l.427 \caption{Data Flow Diagram 0}
                                    
 ? 
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.425 \caption{Dafa Flow Diagram 0}
+l.427 \caption{Data Flow Diagram 0}
                                    
 ? 
-[14
+[16
 
  <G:/MCA Report/images/dfd0.png (PNG copy)>]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.431 \left
+l.433 \left
            
 ? 
 ! Missing delimiter (. inserted).
 <to be read again> 
                    \let 
-l.432 \includegraphics
+l.434 \includegraphics
                       [width=150mm]{dfd0}
 ? 
-<dfd0.png, id=69, 622.325pt x 691.58376pt>
+<dfd0.png, id=62, 622.325pt x 691.58376pt>
 File: dfd0.png Graphic file (type png)
  <use dfd0.png>
-Package pdftex.def Info: dfd0.png used on input line 432.
+Package pdftex.def Info: dfd0.png used on input line 434.
 (pdftex.def)             Requested size: 426.79134pt x 474.2913pt.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.433 \caption{Dafa Flow Diagram 1}
+l.435 \caption{Data Flow Diagram 1}
                                    
 ? 
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.433 \caption{Dafa Flow Diagram 1}
+l.435 \caption{Data Flow Diagram 1}
                                    
 ? 
-[15 <G:/MCA Report/dfd0.png>]
+[17 <G:/MCA Report/dfd0.png>]
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.438 \section{Sequence Diagram}
+l.440 \section{Sequence Diagram}
                                 
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.438 \section{Sequence Diagram}
+l.440 \section{Sequence Diagram}
                                 
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--440
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
 
  []
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.442 \left
+l.444 \left
            
 ? 
 ! Missing delimiter (. inserted).
 <to be read again> 
                    \let 
-l.443 \includegraphics
+l.445 \includegraphics
                       [width=150mm]{splash}
 ? 
-<splash.png, id=73, 542.025pt x 391.4625pt>
+<splash.png, id=67, 542.025pt x 391.4625pt>
 File: splash.png Graphic file (type png)
  <use splash.png>
-Package pdftex.def Info: splash.png used on input line 443.
+Package pdftex.def Info: splash.png used on input line 445.
 (pdftex.def)             Requested size: 426.79134pt x 308.24847pt.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.444 \caption{A simple Splash Screen Loading}
+l.446 \caption{A simple Splash Screen Loading}
                                               
 ? 
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.444 \caption{A simple Splash Screen Loading}
+l.446 \caption{A simple Splash Screen Loading}
                                               
 ? 
-[16 <G:/MCA Report/splash.png (PNG copy)>]
+[18 <G:/MCA Report/splash.png (PNG copy)>]
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.450 \section{Activity Diagram}
+l.452 \section{Activity Diagram}
                                 
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.450 \section{Activity Diagram}
+l.452 \section{Activity Diagram}
                                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.454 \left
+l.456 \left
            
 ? 
 ! Missing delimiter (. inserted).
 <to be read again> 
                    \let 
-l.455 \includegraphics
+l.457 \includegraphics
                       [width=150mm]{images/activityflow}
 ? 
-<images/activityflow.png, id=77, 792.9625pt x 772.8875pt>
+<images/activityflow.png, id=71, 792.9625pt x 772.8875pt>
 File: images/activityflow.png Graphic file (type png)
 
 <use images/activityflow.png>
-Package pdftex.def Info: images/activityflow.png used on input line 455.
+Package pdftex.def Info: images/activityflow.png used on input line 457.
 (pdftex.def)             Requested size: 426.79134pt x 415.9968pt.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.456 \caption{Game Checking Flow}
+l.458 \caption{Game Checking Flow}
                                   
 ? 
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.456 \caption{Game Checking Flow}
+l.458 \caption{Game Checking Flow}
                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.461 \left
+l.463 \left
            
 ? 
 ! Missing delimiter (. inserted).
 <to be read again> 
                    \let 
-l.462 \includegraphics
+l.464 \includegraphics
                       [width=150mm]{reset}
 ? 
-<reset.png, id=78, 1104.125pt x 421.575pt>
+<reset.png, id=72, 1104.125pt x 421.575pt>
 File: reset.png Graphic file (type png)
  <use reset.png>
-Package pdftex.def Info: reset.png used on input line 462.
+Package pdftex.def Info: reset.png used on input line 464.
 (pdftex.def)             Requested size: 426.79134pt x 162.9598pt.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.463 \caption{Game Activity Flow}
+l.465 \caption{Game Activity Flow}
                                   
 ? 
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.463 \caption{Game Activity Flow}
+l.465 \caption{Game Activity Flow}
                                   
 ? 
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.468 \section{Use Case Diagram}
+l.470 \section{Use Case Diagram}
                                 
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.468 \section{Use Case Diagram}
+l.470 \section{Use Case Diagram}
                                 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.472 \left
+l.474 \left
            
 ? 
 ! Missing delimiter (. inserted).
 <to be read again> 
                    \let 
-l.473 \includegraphics
+l.475 \includegraphics
                       [width=150mm]{images/Usecases}
 ? 
-<images/Usecases.png, id=79, 823.075pt x 260.975pt>
+<images/Usecases.png, id=73, 823.075pt x 260.975pt>
 File: images/Usecases.png Graphic file (type png)
  <use images/Usecases.png>
-Package pdftex.def Info: images/Usecases.png used on input line 473.
+Package pdftex.def Info: images/Usecases.png used on input line 475.
 (pdftex.def)             Requested size: 426.79134pt x 135.32549pt.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.474 \caption{Use Case Diagram}
+l.476 \caption{Use Case Diagram}
                                 
 ? 
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.474 \caption{Use Case Diagram}
+l.476 \caption{Use Case Diagram}
                                 
 ? 
-[17 <G:/MCA Report/images/activityflow.png (PNG copy)>] [18 <G:/MCA Report/rese
+[19 <G:/MCA Report/images/activityflow.png (PNG copy)>] [20 <G:/MCA Report/rese
 t.png (PNG copy)> <G:/MCA Report/images/Usecases.png (PNG copy)>]
 Chapter 5.
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.487 \section{Input Design}
+l.490 \section{Input Design}
                             
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.487 \section{Input Design}
+l.490 \section{Input Design}
                             
 ? 
-[19
+[21
 
 ]
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.505 \section{Output Design}
+l.508 \section{Output Design}
                              
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.505 \section{Output Design}
+l.508 \section{Output Design}
                              
 ? 
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-[20]
+[22]
 Chapter 6.
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.512 \section{Module Description}
+l.516 \section{Module Description}
                                   
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.512 \section{Module Description}
+l.516 \section{Module Description}
                                   
 ? 
-[21
+[23
 
 ] ("G:\MCA Report\async.py"
 LaTeX Font Info:    Try loading font information for OML+ptm on input line 1.
@@ -1212,16 +1122,22 @@ LaTeX Font Info:    Try loading font information for OML+ptm on input line 1.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlptm.fd"
 File: omlptm.fd 
 )
-LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 1.
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1.
-) [22]
+)
 ! You can't use `macro parameter character #' in horizontal mode.
-l.541 ...family of languages, including C, C++, C#
+l.545 ...family of languages, including C, C++, C#
                                                   , Java, JavaScript, Perl, ...
 
 ? 
+[24]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 550.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 550.
+
 
 ! Package Listings Error: File `json(.txt)' not found.
 
@@ -1229,121 +1145,119 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: txt)
 
 Enter file name: 
-("G:\MCA Report\sqllitehelper.py" [23] [24])
+("G:\MCA Report\sqllitehelper.py" [25])
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.562 ...ance from the system by calling LOCATION_
+l.566 ...ance from the system by calling LOCATION_
                                                   SERVICE.
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.563 
+l.567 
       
 ? 
 
-Overfull \hbox (2.07571pt too wide) in paragraph at lines 562--563
+Overfull \hbox (2.07571pt too wide) in paragraph at lines 566--567
 \OT1/ptm/m/n/12 Android gives your ap-pli-ca-tions ac-cess to the lo-ca-tion se
 r-vices sup-ported by the de-vice through
  []
 
-("G:\MCA Report\gps.py" [25]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+[26] ("G:\MCA Report\gps.py"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
-) [26]
+) [27] [28]
 Chapter 7.
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.578 \section{General}
+l.586 \section{General}
                        
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.578 \section{General}
+l.586 \section{General}
                        
 ? 
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.581 \section{Developing Methodologies}
+l.589 \section{Developing Methodologies}
                                         
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.581 \section{Developing Methodologies}
+l.589 \section{Developing Methodologies}
                                         
 ? 
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.585 \section{Robotium  benefits over other }
+l.593 \section{Robotium  benefits over other }
                                               
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.585 \section{Robotium  benefits over other }
+l.593 \section{Robotium  benefits over other }
                                               
 ? 
-<robotinium.jpg, id=114, 395.4775pt x 128.48pt>
+<robotinium.jpg, id=107, 395.4775pt x 128.48pt>
 File: robotinium.jpg Graphic file (type jpg)
  <use robotinium.jpg>
-Package pdftex.def Info: robotinium.jpg used on input line 589.
+Package pdftex.def Info: robotinium.jpg used on input line 597.
 (pdftex.def)             Requested size: 197.73827pt x 64.23984pt.
- [27
+ [29
 
  <G:/MCA Report/robotinium.jpg>]
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.604 \section{Results}
+l.612 \section{Results}
                        
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.604 \section{Results}
+l.612 \section{Results}
                        
 ? 
-<testingcall.png, id=118, 756.8275pt x 928.46875pt>
+<testingcall.png, id=112, 756.8275pt x 928.46875pt>
 File: testingcall.png Graphic file (type png)
  <use testingcall.png>
-Package pdftex.def Info: testingcall.png used on input line 607.
+Package pdftex.def Info: testingcall.png used on input line 615.
 (pdftex.def)             Requested size: 378.41283pt x 464.23325pt.
 
-("G:\MCA Report\robotinium.py" [28] [29]) [30] [31 <G:/MCA Report/testingcall.p
-ng (PNG copy)>]
+[30 <G:/MCA Report/testingcall.png (PNG copy)>] ("G:\MCA Report\robotinium.py"
+[31]) [32]
 Chapter 8.
 ! Missing number, treated as zero.
 <to be read again> 
                    \ttl@glcmds 
-l.620 ...{\ignorespacesSource Code & Screen Shots}
+l.629 ...{\ignorespacesSource Code & Screen Shots}
                                                   
 ? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \ttl@glcmds 
-l.620 ...{\ignorespacesSource Code & Screen Shots}
+l.629 ...{\ignorespacesSource Code & Screen Shots}
                                                   
 ? 
 ! Undefined control sequence.
 <argument> ...abel \ttl@a \fi \ignorespacesSource 
                                                   Code & Screen Shots}{\thep...
-l.620 ...{\ignorespacesSource Code & Screen Shots}
+l.629 ...{\ignorespacesSource Code & Screen Shots}
                                                   
 ? 
-<snaps/splash.png, id=132, 180.675pt x 321.45094pt>
+<snaps/splash.png, id=122, 180.675pt x 321.45094pt>
 File: snaps/splash.png Graphic file (type png)
  <use snaps/splash.png>
-Package pdftex.def Info: snaps/splash.png used on input line 626.
+Package pdftex.def Info: snaps/splash.png used on input line 635.
 (pdftex.def)             Requested size: 126.47162pt x 225.01411pt.
 
 Runaway argument?
@@ -1351,7 +1265,7 @@ Runaway argument?
 ! Paragraph ended before \text@command was complete.
 <to be read again> 
                    \par 
-l.632 }
+l.641 }
        
 ? 
 Missing character: There is no ‚ in font ptmr7t!
@@ -1360,20 +1274,14 @@ Missing character: There is no ì in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-! Too many }'s.
-<recently read> \egroup 
-                        
-l.632 }
-       
-? 
-("G:\MCA Report\splash.py" [32
+("G:\MCA Report\splash.py" [33
 
- <G:/MCA Report/snaps/splash.png>] [33] [34]
-[35] [36]) <snaps/location.png, id=148, 180.675pt x 321.45094pt>
+ <G:/MCA Report/snaps/splash.png>] [34] [35]
+[36]) <snaps/location.png, id=136, 180.675pt x 321.45094pt>
 File: snaps/location.png Graphic file (type png)
 
 <use snaps/location.png>
-Package pdftex.def Info: snaps/location.png used on input line 645.
+Package pdftex.def Info: snaps/location.png used on input line 654.
 (pdftex.def)             Requested size: 108.40582pt x 192.87204pt.
 
 Runaway argument?
@@ -1381,28 +1289,28 @@ Runaway argument?
 ! Paragraph ended before \text@command was complete.
 <to be read again> 
                    \par 
-l.655 }
+l.664 }
        
 ? 
 [37 <G:/MCA Report/snaps/location.png>]
 ! Too many }'s.
 <recently read> \egroup 
                         
-l.655 }
+l.664 }
        
 ? 
-("G:\MCA Report\showthemap.py" [38] [39] [40] [41] [42] [43] [44] [45] [46]
-[47] [48])
+("G:\MCA Report\showthemap.py" [38] [39] [40] [41] [42] [43] [44] [45] [46])
+[47]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.676 
+l.685 
       
 ? 
 ! Display math should end with $$.
 <to be read again> 
                    \par 
-l.676 
+l.685 
       
 ? 
 
@@ -1412,125 +1320,125 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.677 \end{equation*}
+l.686 \end{equation*}
                      
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.677 \end{equation*}
+l.686 \end{equation*}
                      
 ? 
 ! Display math should end with $$.
 <to be read again> 
                    \endgroup 
-l.677 \end{equation*}
+l.686 \end{equation*}
                      
 ? 
-<xymatrix 2x2 168> <xymatrix 2x2 168> [49] [50]
+<xymatrix 2x2 168> <xymatrix 2x2 168> [48]
 Chapter 9.
 File: snaps/splash.png Graphic file (type png)
 <use snaps/splash.png>
-Package pdftex.def Info: snaps/splash.png used on input line 701.
+Package pdftex.def Info: snaps/splash.png used on input line 711.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
- <snaps/user.png, id=200, 180.675pt x 321.45094pt>
+ <snaps/user.png, id=181, 180.675pt x 321.45094pt>
 File: snaps/user.png Graphic file (type png)
 
 <use snaps/user.png>
-Package pdftex.def Info: snaps/user.png used on input line 702.
+Package pdftex.def Info: snaps/user.png used on input line 712.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.702 \includegraphics[width=2.5in]{snaps/user} &
+l.712 \includegraphics[width=2.5in]{snaps/user} &
                                                  
 ? 
 ! Misplaced alignment tab character &.
 <argument> ...sname : \ignorespaces Spash Screen &
                                                    Team Select
-l.706 \caption{Spash Screen & Team Select}
+l.716 \caption{Spash Screen & Team Select}
                                           
 ? 
-<snaps/3.png, id=201, 180.675pt x 321.45094pt>
+<snaps/3.png, id=182, 180.675pt x 321.45094pt>
 File: snaps/3.png Graphic file (type png)
  <use snaps/3.png>
-Package pdftex.def Info: snaps/3.png used on input line 712.
+Package pdftex.def Info: snaps/3.png used on input line 722.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
-<snaps/4.png, id=202, 180.675pt x 321.45094pt>
+<snaps/4.png, id=183, 180.675pt x 321.45094pt>
 File: snaps/4.png Graphic file (type png)
  <use snaps/4.png>
-Package pdftex.def Info: snaps/4.png used on input line 713.
+Package pdftex.def Info: snaps/4.png used on input line 723.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
 ! Misplaced alignment tab character &.
 <argument> ...ndcsname : \ignorespaces Main Menu &
                                                    Task List
-l.716 \caption{Main Menu & Task List}
+l.726 \caption{Main Menu & Task List}
                                      
 ? 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<snaps/5.png, id=203, 180.675pt x 321.45094pt>
+<snaps/5.png, id=184, 180.675pt x 321.45094pt>
 File: snaps/5.png Graphic file (type png)
  <use snaps/5.png>
-Package pdftex.def Info: snaps/5.png used on input line 722.
+Package pdftex.def Info: snaps/5.png used on input line 732.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
-<snaps/6.png, id=204, 180.675pt x 321.45094pt>
+<snaps/6.png, id=185, 180.675pt x 321.45094pt>
 File: snaps/6.png Graphic file (type png)
  <use snaps/6.png>
-Package pdftex.def Info: snaps/6.png used on input line 723.
+Package pdftex.def Info: snaps/6.png used on input line 733.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
 ! Misplaced alignment tab character &.
 <argument> ...sname : \ignorespaces OverLays Map &
                                                    Custom Location
-l.726 \caption{OverLays Map & Custom Location}
+l.736 \caption{OverLays Map & Custom Location}
                                               
 ? 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<snaps/7.png, id=205, 180.675pt x 321.45094pt>
+<snaps/7.png, id=186, 180.675pt x 321.45094pt>
 File: snaps/7.png Graphic file (type png)
  <use snaps/7.png>
-Package pdftex.def Info: snaps/7.png used on input line 732.
+Package pdftex.def Info: snaps/7.png used on input line 742.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
-<snaps/8.png, id=206, 180.675pt x 321.45094pt>
+<snaps/8.png, id=187, 180.675pt x 321.45094pt>
 File: snaps/8.png Graphic file (type png)
  <use snaps/8.png>
-Package pdftex.def Info: snaps/8.png used on input line 733.
+Package pdftex.def Info: snaps/8.png used on input line 743.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/maps.png, id=207, 961.5925pt x 767.86874pt>
+<images/maps.png, id=188, 961.5925pt x 767.86874pt>
 File: images/maps.png Graphic file (type png)
  <use images/maps.png>
-Package pdftex.def Info: images/maps.png used on input line 742.
+Package pdftex.def Info: images/maps.png used on input line 752.
 (pdftex.def)             Requested size: 180.67499pt x 144.26794pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[51
+[49
 
- <G:/MCA Report/snaps/user.png>] [52 <G:/MCA Report/snaps/3.png> <G:/MCA Report
-/snaps/4.png>] [53 <G:/MCA Report/snaps/5.png> <G:/MCA Report/snaps/6.png>]
-[54 <G:/MCA Report/snaps/7.png> <G:/MCA Report/snaps/8.png> <G:/MCA Report/imag
+ <G:/MCA Report/snaps/user.png>] [50 <G:/MCA Report/snaps/3.png> <G:/MCA Report
+/snaps/4.png>] [51 <G:/MCA Report/snaps/5.png> <G:/MCA Report/snaps/6.png>]
+[52 <G:/MCA Report/snaps/7.png> <G:/MCA Report/snaps/8.png> <G:/MCA Report/imag
 es/maps.png>]
 Chapter 10.
 
-Underfull \hbox (badness 10000) in paragraph at lines 754--755
+Underfull \hbox (badness 10000) in paragraph at lines 763--764
 
  []
 
-[55
+[53
 
 ]
 Chapter 11.
@@ -1541,16 +1449,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.767 \end{adjustwidth}
+l.776 \end{adjustwidth}
                        
 ? 
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.767 \end{adjustwidth}
+l.776 \end{adjustwidth}
                        
 ? 
-) ("G:\MCA Report\ref.tex" [56
+) ("G:\MCA Report\ref.tex" [54
 
 ]
 ! Undefined control sequence.
@@ -1559,21 +1467,21 @@ l.3 \lhead
 ? 
 Missing character: There is no √ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
-) [57
+) [55
 
 ] ("G:\MCA Report\ANKIT APRIL REPORT 2013.aux")
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 9069 strings out of 493921
- 120081 string characters out of 3144873
- 458993 words of memory out of 3000000
- 12160 multiletter control sequences out of 15000+200000
- 37297 words of font info for 86 fonts, out of 3000000 for 9000
+ 9070 strings out of 493921
+ 119896 string characters out of 3144873
+ 452999 words of memory out of 3000000
+ 12170 multiletter control sequences out of 15000+200000
+ 41555 words of font info for 95 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,19n,40p,1498b,1522s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,19n,40p,1498b,1609s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
@@ -1586,9 +1494,9 @@ e1/urw/times/utmri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
 xypic/xyatip10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/xypic/
 xybtip10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/xypic/xydash
 10.pfb>
-Output written on "ANKIT APRIL REPORT 2013.pdf" (63 pages, 1293565 bytes).
+Output written on "ANKIT APRIL REPORT 2013.pdf" (57 pages, 1287864 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
+ 249 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

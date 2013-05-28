@@ -1,3 +1,74 @@
+% Compile with XeLaTeX or LuaLaTeX
+	\documentclass[11.4pt,a4paper,times]{report}
+\scrollmode
+\usepackage[top=25mm, bottom=24mm, left=34mm,right=19mm]{geometry}
+
+\usepackage{times}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{graphicx}
+%\defaultfontfeatures{Ligatures=TeX}
+% Set sans serif font to Calibri
+%\setsansfont{Calibri}
+% Set serifed font to Cambria
+%\setmainfont{Calibri}
+% Define light and dark Microsoft blue colours
+
+% Define a new fontfamily for the subsubsection font
+% Don't use \fontspec directly to change the font
+%\newfontfamily\subsubsectionfont{times}
+
+% Set formats for each heading level
+\titleformat*{\chapter}{\large\bfseries\rmfamily\color{MSBlue}}
+\usepackage{times}
+\titleformat*{\section}{\large}
+\titleformat*{\subsection}{\large}}
+\titleformat*{\subsubsection}{\itshape\subsubsectionfont}
+\usepackage{titlesec}
+\titleformat{\chapter}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesection}{1em}{}
+\renewcommand{\baselinestretch}{1.50}\normalsize
+\renewcommand\bibname{References} 
+%For inserting Python Code
+	\usepackage{listings}
+	\usepackage{color}
+	\definecolor{dkgreen}{rgb}{0,0,0}
+	\definecolor{gray}{rgb}{0,0,0}
+	
+	
+	\definecolor{mauve}{rgb}{0,0,0}
+	\lstset{ %
+	language=Python, % the language of the code
+	basicstyle=\small, % the size of the fonts that are used for the code
+	%numbers=left, % where to put the line-numbers
+	%numberstyle=\tiny\color{gray}, % the style that is used for the line-numbers
+	stepnumber=1, % each line is numbered
+	numbersep=12pt, % how far the line-numbers are from the code
+	backgroundcolor=\color{white}, % choose the background color. You must add \usepackage{color}
+	showspaces=false, % show spaces adding particular underscores
+	showstringspaces=false, % underline spaces within strings
+	showtabs=false, % show tabs within strings adding particular underscores
+	%frame=single, % adds a frame around the code
+	rulecolor=\color{black}, % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. commens (green here))
+	tabsize=2, % sets default tabsize to 2 spaces
+	captionpos=b, % sets the caption-position to bottom
+	breaklines=true, % sets automatic line breaking
+	breakatwhitespace=false, % sets if automatic breaks should only happen at whitespace
+	%title=\lstname, % show the filename of files included with \lstinputlisting;
+	% also try caption instead of title
+	keywordstyle=\color{dkgreen}, % keyword style
+	commentstyle=\color{dkgreen}, % comment style
+	stringstyle=\color{dkgreen}, % string literal style
+	escapeinside={\%*}{*)}, % if you want to add a comment within your code
+	morekeywords={*,...} % if you want to add more keywords to the set
+	}
+	
+	%%%%For inserting Python Code Ove
+	
+	
+	
+	%%%%%%%%%%%%%%%%%
 	\makeatletter
 	\def\@makechapterhead#1{%
 	  \vspace*{50\p@}%
@@ -24,16 +95,13 @@
 	  }}
 
 	\makeatother
- 
-            \sectionfont{\fontsize{12}}
 
-\renewcommand
-	\titlespacing*{\chapter}{0pt}{0pt}{12pt}
-	
+\begin{document}
+	\doublespacing
 
-\chapter{ Introduction}
-\large{	
-Treasure Hunt is a real-world, outdoor treasure hunting game using GPS-enabled devices. Participants navigate to a specific set of GPS coordinates and then attempt to find the geocache (container) hidden at that location.At its simplest level, geocaching requires these 8 steps:
+\chapter{ Introduction}}}
+
+	\large{Treasure Hunt is a real-world, outdoor treasure hunting game using GPS-enabled devices. Participants navigate to a specific set of GPS coordinates and then attempt to find the geocache (container) hidden at that location.At its simplest level, geocaching requires these 8 steps:}
 	\begin{itemize}
 	
 	
@@ -131,7 +199,7 @@ Treasure Hunt is a real-world, outdoor treasure hunting game using GPS-enabled d
 
 	
 	
-	
+
 	\section{Designing Treasure Hunting Game}
 	
 	The executability of the activity should be concerned in designing Treasure Hunting Game. Therefore, the campus environment and local environment off the campus both can be adopted. The former is more suitable for beginners; the obvious buildings and landmarks in the campus, such as gate, playground, flower beds, gym, educational building, parking lot, etc can be the places for hiding the treasure. However, the safety should be concerned as well so that construction sites or some places with potential dangers should be avoided. In designing treasures, the treasure can be an object or the place itself. Once the participant is approaching the target, the system will automatically show the quiz. The quiz should be related to the treasure. For example, when the participant is approaching the flower bed, the system can appear “What kind of flower is it?” Thus, the participant needs to answer the question in this game. 
@@ -415,7 +483,7 @@ qhint&String.&String.Valueof(String)\\
 \end{center}
 \end {table}
 
-\setcounter{page}{14}
+
 \chapter{System Design}
 
 \section{Data Flow Diagram}
@@ -630,15 +698,9 @@ Code Snippet
 
 \subsection{Splash Screen}
 
-\begin{wrapfigure}{r}{0.3845\linewidth}
-\centering
-\includegraphics[scale=0.7]{snaps/splash}
-\caption{Application Loading}
-\label{fig:myfig}
-\end{wrapfigure}
-\textnormal{Splash Screen is a view that appears for sometimes (3 or 4 seconds).After dislaying splash screen that never comes second time in application until we restart Application.The purpose of a splash screen is to give the user an indication that your app is loading–not to create an extra delay before the user can load your app. People don’t like waiting, especially in a mobile environment.Using Thread,AsyncTask,Handler you can wait sometimes to load your app.The most desirable way to display splash screen is handler.you can do it easily.no need to create thread or async task in your activity.The handler have post Delayed (Runnable,long)  method.using this method you can wait some times to load app.Handler instance is associated with a single thread and that thread's message queue. When you create a new Handler, it is bound to the thread / message queue of the thread that is creating it -- from that point on, it will deliver messages and runnables to that message queue and execute them as they come out of the message queue.
+Splash Screen is a view that appears for sometimes (3 or 4 seconds).After dislaying splash screen that never comes second time in application until we restart Application.The purpose of a splash screen is to give the user an indication that your app is loading–not to create an extra delay before the user can load your app. People don’t like waiting, especially in a mobile environment.Using Thread,AsyncTask,Handler you can wait sometimes to load your app.The most desirable way to display splash screen is handler.you can do it easily.no need to create thread or async task in your activity.The handler have post Delayed (Runnable,long)  method.using this method you can wait some times to load app.Handler instance is associated with a single thread and that thread's message queue. When you create a new Handler, it is bound to the thread / message queue of the thread that is creating it -- from that point on, it will deliver messages and runnables to that message queue and execute them as they come out of the message queue.
 
-}
+
 
 \lstinputlisting{splash.py}
 
@@ -649,19 +711,12 @@ Code Snippet
 
 \subsection{Location Marker}
 
-\begin{wrapfigure}{r}{0.39\linewidth}
-\centering
-\includegraphics[scale=0.6]{snaps/location}
-%\rule{0.9\linewidth}{0.75\linewidth}
-\caption{Location Marker Activity}
-\label{fig:myfig}
-\end{wrapfigure}
-\textnormal{
+
 Location Marker is responsible  for plotting the real time location of all the user participating in the game. The functionality is when the player starts the application and registers it,the device starts sending the user co-ordinates to our webserver which is send back to other user using the JSON type in callback which uses the overlays on Android Maps to plot it.
 
 In order to use the Android Maps you need to have maps and its API keys . The Treasure Hunt Icons are saved in the assets folder and the images are scaled for the device screen size and are in the PNG format.Using this Location Marker the user is not only able to see his locations but other locations where the other team are heading .
 
-}
+
 
 \lstinputlisting{showthemap.py}
 %\lstinputlisting{java/LocationMarker.java}
@@ -670,20 +725,7 @@ In order to use the Android Maps you need to have maps and its API keys . The Tr
 
 Treasure Hunting Game not only remains the concept of hunting treasures with maps but also integrates GPS function. With a designed route for treasure hunting, the students would not miss any places for treasures. During the process of game, students can participate in the activity and observe the environment in person and absorb the knowledge unconsciously. Meanwhile, students can learn how to apply GPS and the skills of reading maps to obtain the knowledge happily.Treasure Hunting Game not only remains the concept of hunting treasures with maps but also integrates GPS function. With a designed route for treasure hunting, the students would not miss any places for treasures. During the process of game, students can participate in the activity and observe the environment in person and absorb the knowledge unconsciously. Meanwhile, students can learn how to apply GPS and the skills of reading maps to obtain the knowledge happily.
 
-\begin{equation*}
-  \begin{CD}
-    a @>>> b \\
-    @VVV @AAA \\
-    c @= d
-  \end{CD}
-  \qquad
-  \begin{CD}
-    x @>>\alpha> y \\
-    @VV\kappa V @A\beta AA \\
-    v @<\gamma<< w
-  \end{CD}
 
-\end{equation*}
 
 %\lstinputlisting{java/TaskList.java}
 
@@ -692,13 +734,7 @@ Treasure Hunting Game not only remains the concept of hunting treasures with map
 
 Treasure Hunting Game can only be played when the user has registered with the server and his device IMSI has been saved on the server,Once the user Installs the Application the user is asked to register the device and select team color , this is achieved using the registration class . A seperate XML layout has been developed for the Registration form . Once the data has been saved the entry is created in Shared Preferences and the application sends the data to webserver , the type of data is UTF-8 and in JSON format
 
-\begin{align*}
-\xymatrix@R=10pt{
-    cRing \ar[r] & Sch \\
-    A \ar@{}[u]|{\rotatebox{90}{$\in$}} \ar@{|->}[r] 
-            & Spec(A) \ar@{}[u]|{\rotatebox{90}{$\in$}}
-}
-\end{align*}
+
 
 
 
@@ -774,6 +810,10 @@ Treasure Hunting Game not only remains the concept of hunting treasures with map
 
 
 \end{adjustwidth}
+\input{ref.tex} 
+
+
+\end{document}
 
 
 
@@ -783,4 +823,3 @@ Treasure Hunting Game not only remains the concept of hunting treasures with map
 
 
 
-	

@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.19)  27 MAY 2013 17:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.19)  27 MAY 2013 18:25
 entering extended mode
-**G:/MCA*Report/May-16*Report.tex
-("G:/MCA Report/May-16 Report.tex"
+**G:/MCA*Report/ANKIT*APRIL*REPORT*2013111.tex
+("G:/MCA Report/ANKIT APRIL REPORT 2013111.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -435,20 +435,20 @@ File: lstlang1.sty 2004/09/05 1.3 listings language file
 LaTeX Warning: Unused global option(s):
     [times].
 
-No file May-16*Report.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 99.
+No file ANKIT*APRIL*REPORT*2013111.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 97.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -501,85 +501,39 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \makeMPintoPDFobject=\count151
 \everyMPtoPDFconversion=\toks34
 )
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 99
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 97
 .
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 99
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 97
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 99
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 97
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 99
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 97
 .
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
-Package xypdf Info: Line width: 0.43788pt on input line 99.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 97.
+Package xypdf Info: Line width: 0.43788pt on input line 97.
 \c@lstlisting=\count152
 
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100           \usepackage
-                           {sectsty}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.102 \usepackage
-                 {titlesec}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
-
-{C:/Users/Dexter/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 122.
-
-No file May-16*Report.toc.
-\tf@toc=\write4
-[1
-
-]
-No file May-16*Report.lof.
-\tf@lof=\write5
-[2
-
-]
-No file May-16*Report.lot.
-\tf@lot=\write6
-[3
-
-] ("G:\MCA Report\Requirement-Engineering.tex"
+("G:\MCA Report\Requirement-Engineering.tex"
 ! Argument of \@xdblarg has an extra }.
 <inserted text> 
                 \par 
@@ -604,8 +558,11 @@ My plan is to forget the whole thing and hope for the best.
 
 [1
 
-]
+
+{C:/Users/Dexter/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 41.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
@@ -623,9 +580,75 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.51 	\section{Background}
+                          
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.51 	\section{Background}
+                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 [2
 
-] [3]
+]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.116 	\section{Implementation and Methodology}
+                                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.116 	\section{Implementation and Methodology}
+                                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[3]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.135 	\section{Designing Treasure Hunting Game}
+                                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.135 	\section{Designing Treasure Hunting Game}
+                                                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no œ in font ptmr7t!
@@ -648,31 +671,294 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
 [4]
-! Misplaced alignment tab character &.
-<argument> Locations &
-                       Rules 
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.150 	\section{Proposed  System Advantages}
+                                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.150 	\section{Proposed  System Advantages}
+                                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
 l.175 	\section{Locations & Rules }
                                    
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.175 	\section{Locations & Rules }
+                                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
 
 [5]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.183 	\section{Trackables}
+                           
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.183 	\section{Trackables}
+                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 Missing character: There is no Â in font ptmr7t!
 Missing character: There is no ® in font ptmr7t!
- [6] [7]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.192 	\section{Conclusion}
+                           
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.192 	\section{Conclusion}
+                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[6] [7]
 Chapter 2.
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.244 	\section{Hardware Requirement }
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.244 	\section{Hardware Requirement }
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.264 	\section{Software Requirement }
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.264 	\section{Software Requirement }
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 [8
 
-] [9] [10] [11]
-Chapter 3.
-[12
+]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.288 	\section{Functional Requirement}
+                                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-] [13] [14]
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.288 	\section{Functional Requirement}
+                                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.292 	\section{Non Functional Requirements}
+                                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.292 	\section{Non Functional Requirements}
+                                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.299 	\section{Requirement}
+                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.299 	\section{Requirement}
+                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[9]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.315 	\section{Software Tools}
+                               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.315 	\section{Software Tools}
+                               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[10] [11]
+Chapter 3.
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.335 \section{Introduction}
+                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.335 \section{Introduction}
+                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.338 	\section{System and Database Design}
+                                           
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.338 	\section{System and Database Design}
+                                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[14
+
+] [15]
 Chapter 4.
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.421 \section{Data Flow Diagram}
+                                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.421 \section{Data Flow Diagram}
+                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no œ in font ptmr7t!
@@ -704,7 +990,7 @@ braces don't get unbalanced. Otherwise just proceed.
 Acceptable delimiters are characters whose \delcode is
 nonnegative, or you can use `\delimiter <delimiter code>'.
 
-<images/dfd0.png, id=61, 742.775pt x 481.8pt>
+<images/dfd0.png, id=46, 742.775pt x 481.8pt>
 File: images/dfd0.png Graphic file (type png)
  <use images/dfd0.png>
 Package pdftex.def Info: images/dfd0.png used on input line 426.
@@ -713,7 +999,7 @@ Package pdftex.def Info: images/dfd0.png used on input line 426.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.427 \caption{Dafa Flow Diagram 0}
+l.427 \caption{Data Flow Diagram 0}
                                    
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -721,7 +1007,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.427 \caption{Dafa Flow Diagram 0}
+l.427 \caption{Data Flow Diagram 0}
                                    
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -729,7 +1015,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[15
+[16
 
  <G:/MCA Report/images/dfd0.png (PNG copy)>]
 ! Missing $ inserted.
@@ -752,7 +1038,7 @@ braces don't get unbalanced. Otherwise just proceed.
 Acceptable delimiters are characters whose \delcode is
 nonnegative, or you can use `\delimiter <delimiter code>'.
 
-<dfd0.png, id=66, 622.325pt x 691.58376pt>
+<dfd0.png, id=50, 622.325pt x 691.58376pt>
 File: dfd0.png Graphic file (type png)
  <use dfd0.png>
 Package pdftex.def Info: dfd0.png used on input line 434.
@@ -761,7 +1047,7 @@ Package pdftex.def Info: dfd0.png used on input line 434.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.435 \caption{Dafa Flow Diagram 1}
+l.435 \caption{Data Flow Diagram 1}
                                    
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -769,7 +1055,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.435 \caption{Dafa Flow Diagram 1}
+l.435 \caption{Data Flow Diagram 1}
                                    
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -777,7 +1063,29 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[16 <G:/MCA Report/dfd0.png>]
+[17 <G:/MCA Report/dfd0.png>]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.440 \section{Sequence Diagram}
+                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.440 \section{Sequence Diagram}
+                                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 441--442
 
  []
@@ -802,7 +1110,7 @@ braces don't get unbalanced. Otherwise just proceed.
 Acceptable delimiters are characters whose \delcode is
 nonnegative, or you can use `\delimiter <delimiter code>'.
 
-<splash.png, id=70, 542.025pt x 391.4625pt>
+<splash.png, id=54, 542.025pt x 391.4625pt>
 File: splash.png Graphic file (type png)
  <use splash.png>
 Package pdftex.def Info: splash.png used on input line 445.
@@ -827,7 +1135,28 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[17 <G:/MCA Report/splash.png (PNG copy)>]
+[18 <G:/MCA Report/splash.png (PNG copy)>]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.452 \section{Activity Diagram}
+                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.452 \section{Activity Diagram}
+                                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -848,7 +1177,7 @@ braces don't get unbalanced. Otherwise just proceed.
 Acceptable delimiters are characters whose \delcode is
 nonnegative, or you can use `\delimiter <delimiter code>'.
 
-<images/activityflow.png, id=74, 792.9625pt x 772.8875pt>
+<images/activityflow.png, id=58, 792.9625pt x 772.8875pt>
 File: images/activityflow.png Graphic file (type png)
 
 <use images/activityflow.png>
@@ -894,7 +1223,7 @@ braces don't get unbalanced. Otherwise just proceed.
 Acceptable delimiters are characters whose \delcode is
 nonnegative, or you can use `\delimiter <delimiter code>'.
 
-<reset.png, id=75, 1104.125pt x 421.575pt>
+<reset.png, id=59, 1104.125pt x 421.575pt>
 File: reset.png Graphic file (type png)
  <use reset.png>
 Package pdftex.def Info: reset.png used on input line 464.
@@ -919,6 +1248,27 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.470 \section{Use Case Diagram}
+                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.470 \section{Use Case Diagram}
+                                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -939,7 +1289,7 @@ braces don't get unbalanced. Otherwise just proceed.
 Acceptable delimiters are characters whose \delcode is
 nonnegative, or you can use `\delimiter <delimiter code>'.
 
-<images/Usecases.png, id=76, 823.075pt x 260.975pt>
+<images/Usecases.png, id=60, 823.075pt x 260.975pt>
 File: images/Usecases.png Graphic file (type png)
  <use images/Usecases.png>
 Package pdftex.def Info: images/Usecases.png used on input line 475.
@@ -964,18 +1314,81 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[18 <G:/MCA Report/images/activityflow.png (PNG copy)>] [19 <G:/MCA Report/rese
+[19 <G:/MCA Report/images/activityflow.png (PNG copy)>] [20 <G:/MCA Report/rese
 t.png (PNG copy)> <G:/MCA Report/images/Usecases.png (PNG copy)>]
 Chapter 5.
-[20
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.490 \section{Input Design}
+                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.490 \section{Input Design}
+                            
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[21
 
 ]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.508 \section{Output Design}
+                             
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.508 \section{Output Design}
+                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
- [21]
+[22]
 Chapter 6.
-[22
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.516 \section{Module Description}
+                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.516 \section{Module Description}
+                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[23
 
 ] ("G:\MCA Report\async.py"
 LaTeX Font Info:    Try loading font information for OML+ptm on input line 1.
@@ -996,7 +1409,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-[23]
+[24]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 550.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
@@ -1009,7 +1422,7 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: txt)
 
 Enter file name: 
-("G:\MCA Report\sqllitehelper.py" [24])
+("G:\MCA Report\sqllitehelper.py" [25])
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -1032,52 +1445,134 @@ Overfull \hbox (2.07571pt too wide) in paragraph at lines 566--567
 r-vices sup-ported by the de-vice through
  []
 
-[25] ("G:\MCA Report\gps.py"
+[26] ("G:\MCA Report\gps.py"
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
-) [26] [27]
+) [27] [28]
 Chapter 7.
-<robotinium.jpg, id=111, 395.4775pt x 128.48pt>
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.586 \section{General}
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.586 \section{General}
+                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.589 \section{Developing Methodologies}
+                                        
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.589 \section{Developing Methodologies}
+                                        
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.593 \section{Robotium  benefits over other }
+                                              
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.593 \section{Robotium  benefits over other }
+                                              
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<robotinium.jpg, id=95, 395.4775pt x 128.48pt>
 File: robotinium.jpg Graphic file (type jpg)
  <use robotinium.jpg>
 Package pdftex.def Info: robotinium.jpg used on input line 597.
 (pdftex.def)             Requested size: 197.73827pt x 64.23984pt.
- [28
+ [29
 
- <G:/MCA Report/robotinium.jpg>] <testingcall.png, id=115, 756.8275pt x 928.468
-75pt>
+ <G:/MCA Report/robotinium.jpg>]
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
+l.612 \section{Results}
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.612 \section{Results}
+                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<testingcall.png, id=99, 756.8275pt x 928.46875pt>
 File: testingcall.png Graphic file (type png)
-
-<use testingcall.png>
+ <use testingcall.png>
 Package pdftex.def Info: testingcall.png used on input line 615.
 (pdftex.def)             Requested size: 378.41283pt x 464.23325pt.
- ("G:\MCA Report\robotinium.py" [29] [30]) [31] [32 <G:/MCA Report/testingcall.
-png (PNG copy)>]
-Chapter 8.
-! Undefined control sequence.
-<argument> \ignorespacesSource 
-                               Code & Screen Shots
-l.629 ...{\ignorespacesSource Code & Screen Shots}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Misplaced alignment tab character &.
-<argument> \ignorespacesSource Code &
-                                      Screen Shots
+[30 <G:/MCA Report/testingcall.png (PNG copy)>] ("G:\MCA Report\robotinium.py"
+[31]) [32]
+Chapter 8.
+! Missing number, treated as zero.
+<to be read again> 
+                   \ttl@glcmds 
 l.629 ...{\ignorespacesSource Code & Screen Shots}
                                                   
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \ttl@glcmds 
+l.629 ...{\ignorespacesSource Code & Screen Shots}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
 <argument> ...abel \ttl@a \fi \ignorespacesSource 
@@ -1090,7 +1585,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-<snaps/splash.png, id=128, 180.675pt x 321.45094pt>
+<snaps/splash.png, id=109, 180.675pt x 321.45094pt>
 File: snaps/splash.png Graphic file (type png)
  <use snaps/splash.png>
 Package pdftex.def Info: snaps/splash.png used on input line 635.
@@ -1116,7 +1611,7 @@ Missing character: There is no ™ in font ptmr7t!
 ("G:\MCA Report\splash.py" [33
 
  <G:/MCA Report/snaps/splash.png>] [34] [35]
-[36]) <snaps/location.png, id=142, 180.675pt x 321.45094pt>
+[36]) <snaps/location.png, id=123, 180.675pt x 321.45094pt>
 File: snaps/location.png Graphic file (type png)
 
 <use snaps/location.png>
@@ -1199,7 +1694,7 @@ File: snaps/splash.png Graphic file (type png)
 <use snaps/splash.png>
 Package pdftex.def Info: snaps/splash.png used on input line 711.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
- <snaps/user.png, id=187, 180.675pt x 321.45094pt>
+ <snaps/user.png, id=168, 180.675pt x 321.45094pt>
 File: snaps/user.png Graphic file (type png)
 
 <use snaps/user.png>
@@ -1227,13 +1722,13 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-<snaps/3.png, id=188, 180.675pt x 321.45094pt>
+<snaps/3.png, id=169, 180.675pt x 321.45094pt>
 File: snaps/3.png Graphic file (type png)
  <use snaps/3.png>
 Package pdftex.def Info: snaps/3.png used on input line 722.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
-<snaps/4.png, id=189, 180.675pt x 321.45094pt>
+<snaps/4.png, id=170, 180.675pt x 321.45094pt>
 File: snaps/4.png Graphic file (type png)
  <use snaps/4.png>
 Package pdftex.def Info: snaps/4.png used on input line 723.
@@ -1254,13 +1749,13 @@ might try typing `S' now just to see what is salvageable.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<snaps/5.png, id=190, 180.675pt x 321.45094pt>
+<snaps/5.png, id=171, 180.675pt x 321.45094pt>
 File: snaps/5.png Graphic file (type png)
  <use snaps/5.png>
 Package pdftex.def Info: snaps/5.png used on input line 732.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
-<snaps/6.png, id=191, 180.675pt x 321.45094pt>
+<snaps/6.png, id=172, 180.675pt x 321.45094pt>
 File: snaps/6.png Graphic file (type png)
  <use snaps/6.png>
 Package pdftex.def Info: snaps/6.png used on input line 733.
@@ -1281,13 +1776,13 @@ might try typing `S' now just to see what is salvageable.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<snaps/7.png, id=192, 180.675pt x 321.45094pt>
+<snaps/7.png, id=173, 180.675pt x 321.45094pt>
 File: snaps/7.png Graphic file (type png)
  <use snaps/7.png>
 Package pdftex.def Info: snaps/7.png used on input line 742.
 (pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
 
-<snaps/8.png, id=193, 180.675pt x 321.45094pt>
+<snaps/8.png, id=174, 180.675pt x 321.45094pt>
 File: snaps/8.png Graphic file (type png)
  <use snaps/8.png>
 Package pdftex.def Info: snaps/8.png used on input line 743.
@@ -1296,7 +1791,7 @@ Package pdftex.def Info: snaps/8.png used on input line 743.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/maps.png, id=194, 961.5925pt x 767.86874pt>
+<images/maps.png, id=175, 961.5925pt x 767.86874pt>
 File: images/maps.png Graphic file (type png)
  <use images/maps.png>
 Package pdftex.def Info: images/maps.png used on input line 752.
@@ -1357,19 +1852,19 @@ Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
 ) [55
 
-] ("G:\MCA Report\May-16 Report.aux")
+] ("G:\MCA Report\ANKIT APRIL REPORT 2013111.aux")
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 9065 strings out of 493921
- 119733 string characters out of 3144873
+ 9062 strings out of 493921
+ 119836 string characters out of 3144873
  452999 words of memory out of 3000000
  12166 multiletter control sequences out of 15000+200000
- 38396 words of font info for 90 fonts, out of 3000000 for 9000
+ 39422 words of font info for 92 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,19n,40p,1488b,1605s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,19n,40p,1501b,1609s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
@@ -1382,9 +1877,9 @@ e1/urw/times/utmri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
 xypic/xyatip10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/xypic/
 xybtip10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/xypic/xydash
 10.pfb>
-Output written on "May-16 Report.pdf" (59 pages, 1290210 bytes).
+Output written on "ANKIT APRIL REPORT 2013111.pdf" (53 pages, 1285933 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
+ 236 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

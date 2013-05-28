@@ -1,5 +1,6 @@
 	%%\documentclass[12pt]{report}
 	\documentclass[11pt,a4paper,times]{report}
+\scrollmode
 		\usepackage{sectsty}
 	\sectionfont{\fontsize{11}}
 	\newcommand{\sizetwelvefixed}{\fontsize{12}{12}{12}\selectfont}
@@ -94,13 +95,12 @@
 	
 	
 	\begin{document}
-          \usepackage{sectsty}
+        
 	\sectionfont{\large}
 	\makeatletter
 	\renewcommand\@dotsep{10000}
 	\makeatother
 	\setlength{\headsep}{3pt}
-	\newpage
 	\renewcommand{\baselinestretch}{1.5}\normalsize
 	%Renames "Bibliography" to "References" on ref page
 	
@@ -108,21 +108,15 @@
 	
 	\renewcommand\bibname{References} 
 	\pagenumbering{roman} %numbering before main content starts
-	\tableofcontents % adds Index Page
-	\newpage
-	\listoffigures % adds List of Figures
-	%\pagestyle{plain}
 	
-	\listoftables
-	\newpage
-	\setcounter{page}{1}
+	
 	\pagenumbering{arabic}
 	
 	%\restoregeometry
 	\renewcommand
 		\usepackage{sectsty}
 	\sectionfont{\fontsize{12}}
-
+\setcounter{page}{1}
 	\input{Requirement-Engineering.tex} % adds the Literature Survey page
 
 	\input{ref.tex} % adds the References page

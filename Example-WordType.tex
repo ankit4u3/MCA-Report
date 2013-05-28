@@ -1,39 +1,75 @@
-	\makeatletter
-	\def\@makechapterhead#1{%
-	  \vspace*{50\p@}%
-	  {\parindent \z@ \centering\large
-	    \ifnum \c@secnumdepth >\m@ne
-	      \if@mainmatter
-	         \large\bfseries \@chapapp\space \thechapter
-	        \par\nobreak
-	        \vskip 20\p@
-	      \fi
-	    \fi
-	    \interlinepenalty\@M
-	     \large \bfseries #1\par\nobreak
-	
-	    \vskip 40\p@
-	  }}
-	\def\@makeschapterhead#1{%
-	  \vspace*{50\p@}%
-	  {\parindent \z@ \centering 
-	\large
-	    \interlinepenalty\@M
-	 \large\bfseries  #1\par\nobreak
-	    \vskip 40\p@
-	  }}
+% Compile with XeLaTeX or LuaLaTeX
+\documentclass[12pt]{report}
+\usepackage[tmargin=1in,bmargin=1in,lmargin=1.25in,rmargin=1.25in]{geometry}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\defaultfontfeatures{Ligatures=TeX}
+% Set sans serif font to Calibri
+\setsansfont{Calibri}
+% Set serifed font to Cambria
+\setmainfont{Cambria}
+% Define light and dark Microsoft blue colours
+\definecolor{MSBlue}{rgb}{.204,.353,.541}
+\definecolor{MSLightBlue}{rgb}{.31,.506,.741}
+% Define a new fontfamily for the subsubsection font
+% Don't use \fontspec directly to change the font
+\newfontfamily\subsubsectionfont[Color=MSLightBlue]{Times New Roman}
+% Set formats for each heading level
+\titleformat*{\chapter}{\large\bfseries\sffamily\color{MSBlue}}
+\titleformat*{\section}{\large\bfseries\sffamily\color{MSBlue}}
+\titleformat*{\subsection}{\large\bfseries\sffamily\color{MSLightBlue}}
+\titleformat*{\subsubsection}{\itshape\subsubsectionfont}
 
-	\makeatother
- 
-            \sectionfont{\fontsize{12}}
-
-\renewcommand
-	\titlespacing*{\chapter}{0pt}{0pt}{12pt}
+%For inserting Python Code
+	\usepackage{listings}
+	\usepackage{color}
+	\definecolor{dkgreen}{rgb}{0,0,0}
+	\definecolor{gray}{rgb}{0,0,0}
 	
+	
+	\definecolor{mauve}{rgb}{0,0,0}
+	\lstset{ %
+	language=Python, % the language of the code
+	basicstyle=\small, % the size of the fonts that are used for the code
+	%numbers=left, % where to put the line-numbers
+	%numberstyle=\tiny\color{gray}, % the style that is used for the line-numbers
+	stepnumber=1, % each line is numbered
+	numbersep=12pt, % how far the line-numbers are from the code
+	backgroundcolor=\color{white}, % choose the background color. You must add \usepackage{color}
+	showspaces=false, % show spaces adding particular underscores
+	showstringspaces=false, % underline spaces within strings
+	showtabs=false, % show tabs within strings adding particular underscores
+	%frame=single, % adds a frame around the code
+	rulecolor=\color{black}, % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. commens (green here))
+	tabsize=2, % sets default tabsize to 2 spaces
+	captionpos=b, % sets the caption-position to bottom
+	breaklines=true, % sets automatic line breaking
+	breakatwhitespace=false, % sets if automatic breaks should only happen at whitespace
+	%title=\lstname, % show the filename of files included with \lstinputlisting;
+	% also try caption instead of title
+	keywordstyle=\color{dkgreen}, % keyword style
+	commentstyle=\color{dkgreen}, % comment style
+	stringstyle=\color{dkgreen}, % string literal style
+	escapeinside={\%*}{*)}, % if you want to add a comment within your code
+	morekeywords={*,...} % if you want to add more keywords to the set
+	}
+	
+	%%%%For inserting Python Code Ove
+	
+	
+	
+	%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+\section{A section}
+This is some text.
+\subsection{A subsection}
+\subsubsection{A subsubsection}
 
 \chapter{ Introduction}
-\large{	
-Treasure Hunt is a real-world, outdoor treasure hunting game using GPS-enabled devices. Participants navigate to a specific set of GPS coordinates and then attempt to find the geocache (container) hidden at that location.At its simplest level, geocaching requires these 8 steps:
+	Treasure Hunt is a real-world, outdoor treasure hunting game using GPS-enabled devices. Participants navigate to a specific set of GPS coordinates and then attempt to find the geocache (container) hidden at that location.At its simplest level, geocaching requires these 8 steps:
 	\begin{itemize}
 	
 	
@@ -415,7 +451,7 @@ qhint&String.&String.Valueof(String)\\
 \end{center}
 \end {table}
 
-\setcounter{page}{14}
+
 \chapter{System Design}
 
 \section{Data Flow Diagram}
@@ -424,7 +460,7 @@ A data flow diagram (DFD) is a graphical representation of the “flow” of dat
 \begin{figure}[ht!]
 \left
 \includegraphics[width=150mm]{images/dfd0}
-\caption{Data Flow Diagram 0}
+\caption{Dafa Flow Diagram 0}
 \label{overflow}
 \end{figure}
 \newpage
@@ -432,7 +468,7 @@ A data flow diagram (DFD) is a graphical representation of the “flow” of dat
 \begin{figure}[ht!]
 \left
 \includegraphics[width=150mm]{dfd0}
-\caption{Data Flow Diagram 1}
+\caption{Dafa Flow Diagram 1}
 \label{overflow}
 \end{figure}
 \newpage
@@ -777,10 +813,4 @@ Treasure Hunting Game not only remains the concept of hunting treasures with map
 
 
 
-
-
-
-
-
-
-	
+\end{document}

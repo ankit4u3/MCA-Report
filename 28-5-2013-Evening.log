@@ -1,0 +1,1083 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.19)  28 MAY 2013 18:45
+entering extended mode
+**G:/MCA*Report/28-5-2013-Evening.tex
+("G:/MCA Report/28-5-2013-Evening.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(C:\Users\Dexter\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(C:\Users\Dexter\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen111
+\ttl@minus=\dimen112
+\ttl@toksa=\toks16
+\titlewidth=\dimen113
+\titlewidthlast=\dimen114
+\titlewidthfirst=\dimen115
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+)
+
+! Package titlesec Error: Not allowed in `easy' settings.
+
+See the titlesec package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...r}{\large\bfseries\rmfamily\color{MSBlue}}
+                                                  
+The sectiong command you are trying to redefine
+is not handled by the starred variant (eg, \part)
+
+! Too many }'s.
+l.25 \titleformat*{\subsection}{\large}}
+                                        
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+(C:\Users\Dexter\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count92
+\lst@gtempboxa=\box27
+\lst@token=\toks17
+\lst@length=\count93
+\lst@currlwidth=\dimen118
+\lst@column=\count94
+\lst@pos=\count95
+\lst@lostspace=\dimen119
+\lst@width=\dimen120
+\lst@newlines=\count96
+\lst@lineno=\count97
+\lst@maxwidth=\dimen121
+
+(C:\Users\Dexter\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count98
+\lst@skipnumbers=\count99
+\lst@framebox=\box28
+)
+(C:\Users\Dexter\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(C:\Users\Dexter\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+
+LaTeX Warning: Unused global option(s):
+    [times].
+
+("G:\MCA Report\28-5-2013-Evening.aux"
+
+LaTeX Warning: Label `tab:title' multiply defined.
+
+
+LaTeX Warning: Label `the-label-for-cross-referencing' multiply defined.
+
+
+LaTeX Warning: Label `tab:title' multiply defined.
+
+
+LaTeX Warning: Label `the-label-for-cross-referencing' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `the-label-for-cross-referencing' multiply defined.
+
+
+LaTeX Warning: Label `the-label-for-cross-referencing' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 103.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(96.73936pt, 446.70828pt, 54.06023pt)
+* v-part:(T,H,B)=(71.13188pt, 705.62836pt, 68.2866pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=446.70828pt
+* \textheight=705.62836pt
+* \oddsidemargin=24.46938pt
+* \evensidemargin=24.46938pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Dexter\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen122
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen123
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks19
+)
+\c@lstlisting=\count106
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 107.
+ ("G:\MCA Report\28-5-2013-Evening.toc"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+
+! Misplaced alignment tab character &.
+<argument> \numberline {1.5}Locations &
+                                        Rules 
+l.6 ...on}{\numberline {1.5}Locations & Rules }{4}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[1
+
+
+{C:/Users/Dexter/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+! Misplaced alignment tab character &.
+<argument> \numberline {8.1}Code &
+                                   Screen Shots
+l.45 ...{\numberline {8.1}Code & Screen Shots}{29}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[2])
+\tf@toc=\write3
+ [3] ("G:\MCA Report\28-5-2013-Evening.lof"
+! Misplaced alignment tab character &.
+<argument> ...e {9.1}{\ignorespaces Spash Screen &
+                                                   Team Select}
+l.18 ...orespaces Spash Screen & Team Select}}{43}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<argument> ...line {9.2}{\ignorespaces Main Menu &
+                                                   Task List}
+l.19 ...{\ignorespaces Main Menu & Task List}}{44}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<argument> ...e {9.3}{\ignorespaces OverLays Map &
+                                                   Custom Location}
+l.20 ...paces OverLays Map & Custom Location}}{45}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+)
+\tf@lof=\write4
+ [4
+
+] ("G:\MCA Report\28-5-2013-Evening.lot")
+\tf@lot=\write5
+
+! Undefined control sequence.
+l.112 \listofreferences
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5
+
+]
+! Undefined control sequence.
+l.116 	\doublespacing
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Chapter 1.
+! Too many }'s.
+l.118 \chapter{ Introduction}}
+                              }
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+l.118 \chapter{ Introduction}}}
+                               
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 125.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+
+! Misplaced alignment tab character &.
+l.126 	  \item Visit the "Hide &
+                                 Seek a Cache" page.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[1
+
+] [2]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+ [3]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [4]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [5]
+! Misplaced alignment tab character &.
+<argument> Locations &
+                       Rules 
+l.259 	\section{Locations & Rules }
+                                   
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[6]
+Missing character: There is no ¬ in font ptmr7t!
+Missing character: There is no Æ in font ptmr7t!
+ [7] [8]
+Chapter 2.
+[9
+
+] [10] [11]
+Overfull \hbox (3.37341pt too wide) in paragraph at lines 389--390
+[]\OT1/ptm/m/n/14.4 Android ap-pli-ca-tions are pack-aged in .apk for-mat and s
+tored un-der /data/app
+ []
+
+[12] [13] [14]
+Chapter 3.
+
+Overfull \hbox (3.54626pt too wide) in paragraph at lines 420--421
+\OT1/ptm/m/n/14.4 Database de-sign is the pro-cess of pro-duc-ing a de-tailed d
+ata model of a database.
+ []
+
+[15
+
+] [16] [17]
+Chapter 4.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--507
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.509 \left
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \let 
+l.510 \includegraphics
+                      [width=150mm]{images/dfd0}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<images/dfd0.png, id=74, 742.775pt x 481.8pt>
+File: images/dfd0.png Graphic file (type png)
+ <use images/dfd0.png>
+Package pdftex.def Info: images/dfd0.png used on input line 510.
+(pdftex.def)             Requested size: 426.79134pt x 276.84169pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.511 \caption{Data Flow Diagram 0}
+                                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.511 \caption{Data Flow Diagram 0}
+                                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[18
+
+ <G:/MCA Report/images/dfd0.png (PNG copy)>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.517 \left
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \let 
+l.518 \includegraphics
+                      [width=150mm]{dfd0}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<dfd0.png, id=78, 622.325pt x 691.58376pt>
+File: dfd0.png Graphic file (type png)
+ <use dfd0.png>
+Package pdftex.def Info: dfd0.png used on input line 518.
+(pdftex.def)             Requested size: 426.79134pt x 474.2913pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.519 \caption{Data Flow Diagram 1}
+                                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.519 \caption{Data Flow Diagram 1}
+                                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[19 <G:/MCA Report/dfd0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.528 \left
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \let 
+l.529 \includegraphics
+                      [width=150mm]{splash}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<splash.png, id=82, 542.025pt x 391.4625pt>
+File: splash.png Graphic file (type png)
+ <use splash.png>
+Package pdftex.def Info: splash.png used on input line 529.
+(pdftex.def)             Requested size: 426.79134pt x 308.24847pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.530 \caption{A simple Splash Screen Loading}
+                                              
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.530 \caption{A simple Splash Screen Loading}
+                                              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[20 <G:/MCA Report/splash.png (PNG copy)>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.540 \left
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \let 
+l.541 \includegraphics
+                      [width=150mm]{images/activityflow}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<images/activityflow.png, id=87, 792.9625pt x 772.8875pt>
+File: images/activityflow.png Graphic file (type png)
+
+<use images/activityflow.png>
+Package pdftex.def Info: images/activityflow.png used on input line 541.
+(pdftex.def)             Requested size: 426.79134pt x 415.9968pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.542 \caption{Game Checking Flow}
+                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.542 \caption{Game Checking Flow}
+                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.547 \left
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \let 
+l.548 \includegraphics
+                      [width=150mm]{reset}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<reset.png, id=88, 1104.125pt x 421.575pt>
+File: reset.png Graphic file (type png)
+ <use reset.png>
+Package pdftex.def Info: reset.png used on input line 548.
+(pdftex.def)             Requested size: 426.79134pt x 162.9598pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.549 \caption{Game Activity Flow}
+                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.549 \caption{Game Activity Flow}
+                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[21 <G:/MCA Report/images/activityflow.png (PNG copy)>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.558 \left
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \let 
+l.559 \includegraphics
+                      [width=150mm]{images/Usecases}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<images/Usecases.png, id=92, 823.075pt x 260.975pt>
+File: images/Usecases.png Graphic file (type png)
+ <use images/Usecases.png>
+Package pdftex.def Info: images/Usecases.png used on input line 559.
+(pdftex.def)             Requested size: 426.79134pt x 135.32549pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.560 \caption{Use Case Diagram}
+                                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.560 \caption{Use Case Diagram}
+                                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[22 <G:/MCA Report/reset.png (PNG copy)> <G:/MCA Report/images/Usecases.png (PN
+G copy)>]
+Chapter 5.
+[23
+
+]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [24]
+Chapter 6.
+[25
+
+] ("G:\MCA Report\async.py"
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 1.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlptm.fd"
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1.
+ [26])
+! You can't use `macro parameter character #' in horizontal mode.
+l.629 ...family of languages, including C, C++, C#
+                                                  , Java, JavaScript, Perl, ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 634.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 634.
+[27]
+
+! Package Listings Error: File `json(.txt)' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: txt)
+
+Enter file name: 
+("G:\MCA Report\sqllitehelper.py" [28])
+! Missing $ inserted.
+<inserted text> 
+                $
+l.650 ...ance from the system by calling LOCATION_
+                                                  SERVICE.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.651 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[29] ("G:\MCA Report\gps.py"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 19.
+) [30] [31]
+Chapter 7.
+<robotinium.jpg, id=126, 395.4775pt x 128.48pt>
+File: robotinium.jpg Graphic file (type jpg)
+ <use robotinium.jpg>
+Package pdftex.def Info: robotinium.jpg used on input line 681.
+(pdftex.def)             Requested size: 197.73827pt x 64.23984pt.
+ [32
+
+]
+<testingcall.png, id=131, 756.8275pt x 928.46875pt>
+File: testingcall.png Graphic file (type png)
+ <use testingcall.png>
+Package pdftex.def Info: testingcall.png used on input line 699.
+(pdftex.def)             Requested size: 378.41283pt x 464.23325pt.
+
+("G:\MCA Report\robotinium.py" [33 <G:/MCA Report/robotinium.jpg>] [34]
+[35]) [36] [37 <G:/MCA Report/testingcall.png (PNG copy)>]
+Chapter 8.
+! Undefined control sequence.
+<argument> \ignorespacesSource 
+                               Code & Screen Shots
+l.713 ...{\ignorespacesSource Code & Screen Shots}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+<argument> \ignorespacesSource Code &
+                                      Screen Shots
+l.713 ...{\ignorespacesSource Code & Screen Shots}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+<argument> ...abel \ttl@a \fi \ignorespacesSource 
+                                                  Code & Screen Shots}{\thep...
+l.713 ...{\ignorespacesSource Code & Screen Shots}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+("G:\MCA Report\splash.py" [38
+
+] [39] [40] [41] [42])
+("G:\MCA Report\showthemap.py" [43] [44] [45] [46] [47] [48] [49] [50] [51]
+[52] [53]) [54] [55]
+Chapter 9.
+<snaps/splash.png, id=204, 180.675pt x 321.45094pt>
+File: snaps/splash.png Graphic file (type png)
+ <use snaps/splash.png>
+Package pdftex.def Info: snaps/splash.png used on input line 763.
+(pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
+
+<snaps/user.png, id=205, 180.675pt x 321.45094pt>
+File: snaps/user.png Graphic file (type png)
+ <use snaps/user.png>
+Package pdftex.def Info: snaps/user.png used on input line 764.
+(pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.764 \includegraphics[width=2.5in]{snaps/user} &
+                                                 
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Misplaced alignment tab character &.
+<argument> ...sname : \ignorespaces Spash Screen &
+                                                   Team Select
+l.768 \caption{Spash Screen & Team Select}
+                                          
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+<snaps/3.png, id=206, 180.675pt x 321.45094pt>
+File: snaps/3.png Graphic file (type png)
+ <use snaps/3.png>
+Package pdftex.def Info: snaps/3.png used on input line 774.
+(pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
+
+<snaps/4.png, id=207, 180.675pt x 321.45094pt>
+File: snaps/4.png Graphic file (type png)
+ <use snaps/4.png>
+Package pdftex.def Info: snaps/4.png used on input line 775.
+(pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
+
+! Misplaced alignment tab character &.
+<argument> ...ndcsname : \ignorespaces Main Menu &
+                                                   Task List
+l.778 \caption{Main Menu & Task List}
+                                     
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<snaps/5.png, id=208, 180.675pt x 321.45094pt>
+File: snaps/5.png Graphic file (type png)
+ <use snaps/5.png>
+Package pdftex.def Info: snaps/5.png used on input line 784.
+(pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
+
+<snaps/6.png, id=209, 180.675pt x 321.45094pt>
+File: snaps/6.png Graphic file (type png)
+ <use snaps/6.png>
+Package pdftex.def Info: snaps/6.png used on input line 785.
+(pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
+
+! Misplaced alignment tab character &.
+<argument> ...sname : \ignorespaces OverLays Map &
+                                                   Custom Location
+l.788 \caption{OverLays Map & Custom Location}
+                                              
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<snaps/7.png, id=210, 180.675pt x 321.45094pt>
+File: snaps/7.png Graphic file (type png)
+ <use snaps/7.png>
+Package pdftex.def Info: snaps/7.png used on input line 794.
+(pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
+
+<snaps/8.png, id=211, 180.675pt x 321.45094pt>
+File: snaps/8.png Graphic file (type png)
+ <use snaps/8.png>
+Package pdftex.def Info: snaps/8.png used on input line 795.
+(pdftex.def)             Requested size: 180.67499pt x 321.45505pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/maps.png, id=212, 961.5925pt x 767.86874pt>
+File: images/maps.png Graphic file (type png)
+ <use images/maps.png>
+Package pdftex.def Info: images/maps.png used on input line 804.
+(pdftex.def)             Requested size: 180.67499pt x 144.26794pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[56
+
+ <G:/MCA Report/snaps/splash.png> <G:/MCA Report/snaps/user.png>] [57 <G:/MCA R
+eport/snaps/3.png> <G:/MCA Report/snaps/4.png>] [58 <G:/MCA Report/snaps/5.png>
+ <G:/MCA Report/snaps/6.png>] [59 <G:/MCA Report/snaps/7.png> <G:/MCA Report/sn
+aps/8.png> <G:/MCA Report/images/maps.png>]
+Chapter 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--816
+
+ []
+
+[60
+
+]
+Chapter 11.
+
+! LaTeX Error: \begin{document} ended by \end{adjustwidth}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.828 \end{adjustwidth}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.828 \end{adjustwidth}
+                       
+Things are pretty mixed up, but I think the worst is over.
+
+("G:\MCA Report\ref.tex" [61
+
+]
+! Undefined control sequence.
+l.3 \lhead
+          {}\markboth{\bibname}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+) [62
+
+] ("G:\MCA Report\28-5-2013-Evening.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4451 strings out of 493921
+ 61328 string characters out of 3144873
+ 237246 words of memory out of 3000000
+ 7678 multiletter control sequences out of 15000+200000
+ 17896 words of font info for 41 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 29i,12n,40p,1421b,1505s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/times/utmri8a.pfb>
+Output written on 28-5-2013-Evening.pdf (67 pages, 1205036 bytes).
+PDF statistics:
+ 260 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+

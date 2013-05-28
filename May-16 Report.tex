@@ -1,6 +1,7 @@
 	%%\documentclass[12pt]{report}
-	\documentclass[12pt,a4paper,times]{report}
-		\usepackage{sectsty}
+	\documentclass[11pt,a4paper,times]{report}
+\scrollmode
+	\usepackage{sectsty}
 	\sectionfont{\fontsize{12}}
 	\newcommand{\sizetwelvefixed}{\fontsize{12}{12}{12}\selectfont}
 	\usepackage[top=30mm, bottom=24mm, left=34mm,right=19mm]{geometry}
@@ -71,6 +72,8 @@
 	
 	%%%%%%%%%%%%%%%%%
 	\makeatletter
+
+
 	\def\@makechapterhead#1{%
 	  \vspace*{20\p@}%
 	  {\parindent \z@ \centering\normalfont
@@ -96,9 +99,17 @@
 	\begin{document}
           \usepackage{sectsty}
 	\sectionfont{\large}
+\usepackage{titlesec}
+\titleformat{\chapter}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\paragraph}{\large\bfseries}{\thesection}{1em}{}
 	\makeatletter
 	\renewcommand\@dotsep{10000}
+
+
 	\makeatother
+
 	\setlength{\headsep}{3pt}
 	\newpage
 	\renewcommand{\baselinestretch}{1.5}\normalsize
